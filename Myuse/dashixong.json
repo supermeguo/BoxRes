@@ -43,8 +43,8 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "module-play-list-base", //播放截取的列表数组的前关键词
-  "bfjiequshuzuhou": ">", //播放截取的列表数组的后关键词
+  "bfjiequshuzuqian": "<div class=\"module-play-list-content  module-play-list-base\">", //播放截取的列表数组的前关键词
+  "bfjiequshuzuhou": "</div>", //播放截取的列表数组的后关键词
 
   "zhuangtaiqian": "集数：</span><div class=\"module-info-item-content\">", //状态前关键词
   "zhuangtaihou": "</div>", //状态后关键词
@@ -62,6 +62,6 @@
   "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
   "bfbiaotiqian": "span>", //播放剧集标题前关键词
   "bfbiaotihou": "</span", //状播放剧集标题后关键词
-  "bflianjieqian": "a class=\"module-play-list-link\" href=\"", //播放剧集链接前关键词
+  "bflianjieqian": "<a class=\"module-play-list-link\" href=\"", //播放剧集链接前关键词
   "bflianjiehou": "\""
 }
