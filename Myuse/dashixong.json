@@ -39,28 +39,29 @@
   "sslianjieqian": "空",
   "sslianjiehou": "空",
 
+
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "id=\"panel1",
-  "bfjiequshuzuhou": "</div>",
+  "bfjiequshuzuqian": "module-play-list-base", //播放截取的列表数组的前关键词
+  "bfjiequshuzuhou": ">", //播放截取的列表数组的后关键词
 
-  "zhuangtaiqian": "更新：</span>",
-  "zhuangtaihou": "</p>",
-  "daoyanqian": "导演：</span>",
-  "daoyanhou": "</p>",
-  "zhuyanqian": "主演：</span>",
-  "zhuyanhou": "</p>",
-  "juqingqian": "简介：</span>",
-  "juqinghou": "</div>",
+  "zhuangtaiqian": "集数：</span><div class=\"module-info-item-content\">", //状态前关键词
+  "zhuangtaihou": "</div>", //状态后关键词
+  "daoyanqian": "导演：</span>", //导演前关键词
+  "daoyanhou": "</div>", //导演态后关键词
+  "zhuyanqian": "主演：</span>", //主演前关键词
+  "zhuyanhou": "</div>", //主演后关键词
+  "juqingqian": "vod_content\"><span>", //剧情前关键词
+  "juqinghou": "</span>", //剧情后关键词
 
-  "bfyshifouercijiequ": "0",
-  "bfyjiequqian": "空",
-  "bfyjiequhou": "空",
-  "bfyjiequshuzuqian": "<a",
-  "bfyjiequshuzuhou": "/a>",
-  "bfbiaotiqian": ">",
-  "bfbiaotihou": "<",
-  "bflianjieqian": "href=\"",
+  "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
+  "bfyjiequqian": "空", //不需要二次截取就填空
+  "bfyjiequhou": "空", //不需要二次截取就填空
+  "bfyjiequshuzuqian": "<a", //播放剧集数组前关键词
+  "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
+  "bfbiaotiqian": "span>", //播放剧集标题前关键词
+  "bfbiaotihou": "</span", //状播放剧集标题后关键词
+  "bflianjieqian": "a class=\"module-play-list-link\" href=\"", //播放剧集链接前关键词
   "bflianjiehou": "\""
 }
