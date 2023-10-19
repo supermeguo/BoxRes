@@ -38,11 +38,13 @@
   "ssbiaotihou": "空",
   "sslianjieqian": "空",
   "sslianjiehou": "空",
+
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "id=\"playlist",
+  "bfjiequshuzuqian": "id=\"y-playList",
   "bfjiequshuzuhou": "</ul>",
+
   "zhuangtaiqian": "更新：</span>",
   "zhuangtaihou": "</p>",
   "daoyanqian": "导演：</span>",
