@@ -10,12 +10,17 @@
 "lives":
 [
 {
-"group": "redirect",
+"group":"redirect",
 "channels":[
 {
-"name": "live",
+"name":"live",
 "urls":[
-"proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA==",
+"proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="
+]
+},
+{
+"name":"live",
+"urls":[
 "https://raw.githubusercontent.com/mengzehe/TVBox/main/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%99%B4%E5%A4%A9%E6%BA%90.txt"
 ]
 }
