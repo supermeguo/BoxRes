@@ -52,9 +52,9 @@
 {"key":"*抖阴视频","name":"*抖阴视频","type":1,"api":"https://www.888dav.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
 {"key":"*麻豆视频2","name":"*麻豆视频2","type":1,"api":"https://madouse.la/api.php/provide/vod/","searchable":1,"quickSearch":0},
 {"key":"*蛋蛋视频","name":"*蛋蛋视频","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":1,"quickSearch":0},
-{"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*玖玖资源","name":"*玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*狼少年","name":"*狼少年","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":0},
+{"key":"*玖玖资源","name":"*玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":0},
+{"key":"*狼少年","name":"*狼少年","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":0},
 
 {"key":"*61783","name":"*61783","type":1,"api":"https://61783.xyz/api.php/provide/art/","searchable":0,"quickSearch":0},
 #
