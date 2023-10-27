@@ -1,7 +1,7 @@
 {
     "versionName":"1.0.1",
     "versionCode":101,
-    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/%E5%B0%8F%E7%8C%ABTV_v1.0.1_2023-10-27-05:11.apk",
+    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/%E5%B0%8F%E7%8C%ABTV_v1.0.1_2023-10-27-05:25.apk",
     "updateDes":"测试更新检查",
     "isMust":false
 }
