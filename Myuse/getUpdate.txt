@@ -1,7 +1,7 @@
 {
     "versionName":"1.0.1",
     "versionCode":101,
-    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/%E5%B0%8F%E7%8C%ABTV_v1.0.1_2023-10-28-02:45.apk",
+    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.1.apk",
     "updateDes":"修复api24及以下安装升级包闪退问题",
     "isMust":false
 }
