@@ -1,5 +1,6 @@
 # CH猫友 配置地址 简易设定流程
 // 我的 --> 设置 -->  配置地址 --> 请输入 https://freed.yuanhsing.cf/TVBox/meowcf2.json --> 确定
+//        https://github.com/CatVodTV/YuanHsingfreed/tree/master    https://github.com/orgs/CatVodTVOfficial/repositories
 
 
 {
@@ -21,8 +22,7 @@
 //{"key":"csp_biubiu_大师兄影视","name":"🥒大师兄影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/dashixong.json"},
 {"key":"csp_xpath_唐人街","name":"唐人街(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/Renjie.json"},
 {"key":"csp_biubiu_大米星球","name":"🥒大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/大米星球.json"},
-{"key":"csp_biubiu_555电影","name":"🥒555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/555电影.json"}
-
+{"key":"csp_biubiu_555电影","name":"🥒555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/555电影.json"},
 ],
 
 "parses":[
