@@ -2,6 +2,6 @@
     "versionName":"1.0.1",
     "versionCode":101,
     "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.1.apk",
-    "updateDes":"修复api24及以下安装升级包闪退问题",
+    "updateDes":"播放器加载视频时显示当前网速",
     "isMust":false
 }
