@@ -1,7 +1,7 @@
 {
-    "versionName":"1.0.1",
-    "versionCode":101,
-    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.1.apk",
-    "updateDes":"播放器加载视频时显示当前网速",
+    "versionName":"1.0.2",
+    "versionCode":102,
+    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.2.apk",
+    "updateDes":"还原默认播放器",
     "isMust":false
 }
