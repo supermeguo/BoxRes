@@ -1,16 +1,16 @@
-# CH猫友 配置地址 简易设定流程
 // 我的 --> 设置 -->  配置地址 --> 请输入 https://freed.yuanhsing.cf/TVBox/meowcf2.json --> 确定
+//        https://github.com/CatVodTV/YuanHsingfreed/tree/master    https://github.com/orgs/CatVodTVOfficial/repositories  https://github.com/mengzehe/TVBox
+
 
 
 {
 ## spider
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
-"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+//"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
 
 # 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/live18.txt"]}]}],
 
 "sites":[
 {"key":"csp_biubiu_4K电影网","name":"🥒4K电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/4K电影网.json"},
