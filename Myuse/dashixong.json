@@ -30,7 +30,7 @@
   "cateVodId": "/@href",
   "cateVodIdR": "/v/(\\w+).html",
   "cateVodImg": "/@data-original",
-  "cateVodImgR": "\\S+(http\\S+)",
+  "cateVodImgR": "\\S+(http\\S+)+.jpg",
   "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
   "dtUrl": "https://dsxys.pro/v/{vid}.html",
   "dtNode": "//div[contains(@class,'col-lg-wide-75')]",
