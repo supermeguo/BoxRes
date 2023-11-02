@@ -16,7 +16,7 @@
     "连续剧":"2",
     "动漫":"4",
     "综艺":"3"},
-  "homeVodNode": "//div[contains(@class, 'module-main tab-list  active')]/div[contains(@class,'module-items  module-poster-items-base/a[contains(@class,module-poster-item module-item)]')]",
+  "homeVodNode": "//div[contains(@class, 'module-main tab-list  active')]/div[contains(@class,'module-items  module-poster-items-base')]/a[contains(@class,module-poster-item module-item)]')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/v/(\\w+).html",
