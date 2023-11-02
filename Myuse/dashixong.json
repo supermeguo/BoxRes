@@ -20,7 +20,7 @@
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/v/(\\w+).html",
-  "homeVodImg": "/@data-original",
+  "homeVodImg": "//div[contains(@class,module-item-pic)]/img[contains(@class,lazy lazyload)]/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
   "cateUrl": "https://dsxys.pro/vodshow/{cateId}-{area}--{class}-{lang}----{by}---{year}.html",
