@@ -1,7 +1,7 @@
 {
-    "versionName":"1.0.2",
-    "versionCode":102,
-    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.2.apk",
-    "updateDes":"还原默认播放器",
+    "versionName":"1.0.3",
+    "versionCode":103,
+    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.3.apk",
+    "updateDes":"直播模式下支持快进和快退 10秒",
     "isMust":false
 }
