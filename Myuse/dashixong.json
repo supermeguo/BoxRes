@@ -31,7 +31,7 @@
   "cateVodImg": "//div[contains(@class,module-item-pic)]/img[contains(@class,lazy lazyload)]/@data-original",
   "cateVodImgR": "\\S+(http\\S+)+.jpg",
   "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
-  "dtUrl": "https://dsxys.pro/v/{vid}.html",
+  "dtUrl": "https://dsxys.pro/{vid}",
   "dtNode": "//div[contains(@class,'col-lg-wide-75')]",
   "dtName": "//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/@title",
   "dtNameR": "",
