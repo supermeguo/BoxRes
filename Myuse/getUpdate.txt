@@ -1,7 +1,8 @@
 {
     "versionName":"1.0.3",
     "versionCode":103,
-    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.3.apk",
-    "updateDes":"直播模式下支持快进和快退 10秒",
+    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.4.apk",
+    "updateDes":"1、去掉ijk播放器
+                 2、修复直播无法切换频道问题",
     "isMust":false
 }
