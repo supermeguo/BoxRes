@@ -19,7 +19,7 @@
   "homeVodNode": "//div[contains(@class, 'module-main tab-list  active')]/div[contains(@class,'module-items  module-poster-items-base')]/a[contains(@class,module-poster-item module-item)]')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
-  "homeVodIdR": "/v/(\\w+).html",
+  "homeVodIdR": "/p/(\\w+)-",
   "homeVodImg": "/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
