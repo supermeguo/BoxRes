@@ -1,8 +1,7 @@
 {
-    "versionName":"1.0.4",
-    "versionCode":104,
+    "versionName":"1.0.5",
+    "versionCode":105,
     "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.4.apk",
-    "updateDes":"1、去掉ijk播放器
-                 2、修复直播无法切换频道问题",
+    "updateDes":"1、尝试修复播放器问题",
     "isMust":false
 }
