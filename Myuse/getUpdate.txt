@@ -1,8 +1,7 @@
 {
-    "versionName":"1.0.5",
-    "versionCode":105,
-    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.5.apk",
-    "updateDes":"1、播放器提示播放失败问题修复
-    2、去掉ijk播放器",
+    "versionName":"1.0.6",
+    "versionCode":106,
+    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.6.apk",
+    "updateDes":"1、调整播放器内，loading和快进快退 叠加冲突",
     "isMust":false
 }
