@@ -1,8 +1,7 @@
 {
     "versionName":"1.0.7",
     "versionCode":107,
-    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.7.apk",
-    "updateDes":"1、搜索页去掉软键盘输入
-                 2、加入历史搜索功能",
+    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.8.apk",
+    "updateDes":"1、过滤保存搜索类型",
     "isMust":false
 }
