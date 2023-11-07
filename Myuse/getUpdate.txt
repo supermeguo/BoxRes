@@ -1,7 +1,8 @@
 {
-    "versionName":"1.0.6",
-    "versionCode":106,
-    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.6.apk",
-    "updateDes":"1、调整播放器内，loading和快进快退 叠加冲突",
+    "versionName":"1.0.7",
+    "versionCode":107,
+    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.7.apk",
+    "updateDes":"1、搜索页去掉软键盘输入
+                 2、加入历史搜索功能",
     "isMust":false
 }
