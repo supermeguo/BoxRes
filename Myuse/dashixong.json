@@ -61,7 +61,7 @@
   "dtUrlIdR": "([0-9]+-[0-9]+-[0-9])",
   "dtUrlName": "//text()",
   "dtUrlNameR": "",
-  "playUrl": "https://dsxys.pro/p/{playUrl}",
+  "playUrl": "https://dsxys.pro/p/{playUrl}.html",
   "playUa": "",
   "searchUrl": "https://dsxys.pro/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
