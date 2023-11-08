@@ -24,7 +24,7 @@
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
   "cateUrl": "https://dsxys.pro/vodshow/{cateId}-{area}--{class}-{lang}----{by}---{year}.html",
-  "cateVodNode": "//div[cpntains(@class,'main')]/div[cpntains(@class,'content')]/a[contains(@class，'module-poster-item module-item')]",
+  "cateVodNode": "//div[contains(@class,main)]/div[contains(@class,'content')]/div/a[contains(@class,'module-poster-item module-item')]",
   //  "cateVodNode": "//ul[contains(@class,'myui-vodlist')]//li//a[contains(@class,'myui-vodlist__thumb')]",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
