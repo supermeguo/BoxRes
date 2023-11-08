@@ -35,7 +35,6 @@
   "dtUrl": "https://dsxys.pro/v/{vid}.html",
   "dtNode": "//body",
   "dtName": "//div[@class='module-info-main']//h1/text()",
-  //  "dtName": "//body//div[@class='module-player-info']//h1/a/@title",
   "dtNameR": "text()",
   "dtImg": "//img[contains(@class,'lazy lazyload')]/@data-original",
   "dtImgR": "\\S+(http\\S+)",
