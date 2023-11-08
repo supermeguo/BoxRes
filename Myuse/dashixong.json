@@ -62,7 +62,7 @@
   "dtUrlIdR": "/p/(\\w+).html",
   "dtUrlName": "//text()",
   "dtUrlNameR": "",
-  "playUrl": "https://dsxys.pro/p/{playUrl}",
+  "playUrl": "https://dsxys.pro{playUrl}",
   "playUa": "",
   "searchUrl": "https://dsxys.pro/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
