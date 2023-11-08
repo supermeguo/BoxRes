@@ -58,7 +58,7 @@
   "dtUrlNode": "//div[contains(@class,'module-list sort-list')]",
   "dtUrlSubNode": "/div/div/a",
   "dtUrlId": "/@href",
-  "dtUrlIdR": "([0-9]+-[0-9]+-[0-9])",
+  "dtUrlIdR": "/p/(\\w+).html",
   "dtUrlName": "//text()",
   "dtUrlNameR": "",
   "playUrl": "https://dsxys.pro/p/{playUrl}.html",
