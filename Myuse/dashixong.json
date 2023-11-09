@@ -27,7 +27,7 @@
   "cateVodNode": "//div[contains(@class,main)]/div[contains(@class,'content')]/div/a[contains(@class,'module-poster-item module-item')]",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
-  "cateVodIdR": "/v/(\\w+).",
+  "cateVodIdR": "/p/(\\w+)-",
   "cateVodImg": "/@data-original",
   "cateVodImg": "//div[contains(@class,module-item-pic)]/img[contains(@class,lazy lazyload)]/@data-original",
   "cateVodImgR": "\\S+(http\\S+)+.jpg",
