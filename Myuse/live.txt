@@ -47,12 +47,17 @@ CCTV-15音乐,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/
 
 
 📺卫视,#genre#
-湖南卫视 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
-湖南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
+湖南卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
+湖南卫视,http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
 湖南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020c9ea4ce4bf3cfbbb7f8b8bb7.m3u8?bitrate=2300&pt=5
+湖南卫视,http://mqiptv.com:8014/ch/hunanws/mqlive.m3u8
+
+
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江卫视 高清,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江卫视 720p,http://hw-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江卫视,720p,http://hw-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225505/index.m3u8
 
 深圳卫视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
 
