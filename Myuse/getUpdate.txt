@@ -1,7 +1,7 @@
 {
-    "versionName":"1.0.7",
-    "versionCode":107,
-    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.8.apk",
+    "versionName":"1.0.9",
+    "versionCode":109,
+    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.9.apk",
     "updateDes":"1、过滤保存搜索类型",
     "isMust":false
 }
