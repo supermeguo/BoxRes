@@ -32,7 +32,7 @@
   "dtNode": "//body",
   "dtName": "//div[contains(@class,'stui-content__thumb')]/a/@title",
   "dtNameR": "",
-  "dtImg": "//div[contains(@class,'stui-content__thumb')]/a/img/@src",
+  "dtImg": "//div[contains(@class,'stui-content__thumb')]/a//@data-original",
   "dtImgR": "\\S+(http\\S+)",
   "dtCate": "//p[contains(@class,'data')]//span[contains(text(), '类型')]/following-sibling::*/text()",
   "dtCateR": "",
