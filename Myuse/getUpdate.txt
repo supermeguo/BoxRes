@@ -1,7 +1,7 @@
 {
-    "versionName":"1.0.9",
-    "versionCode":109,
-    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.9.apk",
+    "versionName":"1.0.10",
+    "versionCode":1010,
+    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.10.apk",
     "updateDes":"1、直播播放器操作冲突修改",
     "isMust":false
 }
