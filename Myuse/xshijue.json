@@ -23,7 +23,7 @@
   "cateVodNode": "//ul[@class='stui-vodlist clearfix']/li/div/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
-  "cateVodIdR": "/p/(\\w+)-",
+  "cateVodIdR": "/tv/(\\w+).html",
   "cateVodImg": "/@data-original",
   "cateVodImgR": "\\S+(http\\S+)+.jpg",
   "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
