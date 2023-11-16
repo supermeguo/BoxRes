@@ -19,7 +19,7 @@
   "homeVodImg": "/a/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
-  "cateUrl": "https://www.finebv.com/top/{cateId}.html",
+  "cateUrl": "https://www.finebv.com/play/{playUrl}/area/{area}/year/{year}.html",
   "cateVodNode": "//ul[@class='stui-vodlist clearfix']/li/div/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
@@ -249,8 +249,8 @@
       }
     ]
   },
-    "jilupian": [
-      {
+  "jilupian": [
+    {
       "key": "area",
       "name": "地区",
       "value": [
@@ -263,7 +263,7 @@
         {"n": "美国","v": "%E7%BE%8E%E5%9B%BD"}
       ]
     },
-      {
+    {
       "key": "year",
       "name": "年份",
       "value": [
