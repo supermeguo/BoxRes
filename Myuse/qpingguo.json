@@ -19,7 +19,7 @@
   "homeVodImg": "@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "",
-  "cateUrl": "https://www.finebv.com/top/{cateId}/area/{area}/year/{year}.html",
+  "cateUrl": "https://www.mov8.cc/index.php/vod/type/id/{cateId}.html",
   "cateVodNode": "//ul[@class='stui-vodlist clearfix']/li/div/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
