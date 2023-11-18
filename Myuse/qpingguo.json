@@ -22,7 +22,7 @@
   "homeVodImg": "@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "",
-  "cateUrl": "https://www.mov8.cc/index.php/vod/show/area/{area}/class/{class}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}.html",
+  "cateUrl": "https://www.mov8.cc/index.php/vod/show/area/{area}/class/{class}/year/{year}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}.html",
   "cateVodNode": "//ul[@class='stui-vodlist clearfix']/li/div/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
