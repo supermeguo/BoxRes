@@ -3,7 +3,7 @@
   "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36",
   "homeUrl": "https://www.mov8.cc/",
   "dcVipFlag": "true",
-  "pCfgJs": "https://www.finebv.com/static/js/playerconfig.js",
+  "pCfgJs": "https://www.mov8.cc/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
@@ -71,6 +71,11 @@
   "filter": {
     "8": [
       {
+        "key": "cateId",
+        "name": "类型",
+        "value": []
+      },
+      {
         "key": "class",
         "name": "按剧情",
         "value": [
@@ -101,7 +106,8 @@
           {"n": "2017","v": "2017"}, {"n": "2016","v": "2016"}, {"n": "2015","v": "2015"}, {"n": "2014","v": "2014"}, {"n": "2013","v": "2013"}, {"n": "2012","v": "2012"},
           {"n": "2011","v": "2011"}, {"n": "2010","v": "2010"}
         ]
-      },{
+      },
+      {
         "key": "lang",
         "name": "语言",
         "value": [
@@ -109,7 +115,8 @@
           {"n": "国语","v": "国语"}, {"n": "英语","v": "英语"}, {"n": "粤语","v": "粤语"}, {"n": "闽南语","v": "闽南语"}, {"n": "韩语","v": "韩语"},
           {"n": "日语","v": "日语"}, {"n": "法语","v": "法语"}, {"n": "德语","v": "德语"}, {"n": "其它","v": "其它"}
         ]
-      },{
+      },
+      {
         "key": "letter",
         "name": "按字母",
         "value": [
@@ -118,7 +125,8 @@
           {"n": "N","v": "N"}, {"n": "O","v": "O"}, {"n": "P","v": "P"}, {"n": "Q","Q": "Q"}, {"n": "R","v": "R"}, {"n": "S","v": "S"}, {"n": "T","v": "T"},
           {"n": "U","v": "U"}, {"n": "V","v": "V"}, {"n": "W","v": "W"}, {"n": "X","X": "X"}, {"n": "Y","v": "Y"}, {"n": "Z","v": "Z"},{"n": "0-9","v": "0-9"}
         ]
-      },{
+      },
+      {
         "key": "by",
         "name": "排序",
         "value": [
@@ -129,6 +137,11 @@
       }
     ],
     "13": [
+      {
+        "key": "cateId",
+        "name": "类型",
+        "value": []
+      },
       {
         "key": "class",
         "name": "按剧情",
@@ -189,6 +202,11 @@
     ],
     "24":  [
       {
+        "key": "cateId",
+        "name": "类型",
+        "value": []
+      },
+      {
         "key": "class",
         "name": "按剧情",
         "value": [
@@ -243,6 +261,11 @@
       }
     ],
     "28":  [
+      {
+        "key": "cateId",
+        "name": "类型",
+        "value": []
+      },
       {
         "key": "class",
         "name": "按剧情",
