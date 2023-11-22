@@ -10,12 +10,12 @@
 "spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
 
 # 直播
-//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
+//"proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZS50eHQ=",
 "lives":[{"group":"redirect","channels":[
       {
       "name":"live",
       "urls":[
-              "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZS50eHQ=",
+
               "proxy://do=live&type=txt&ext=dGhpcyBpcyBhIGV4YW1wbGVodHRwczovL2FnaXQuYWkvbGVldmkvZHVvL3Jhdy9icmFuY2gvbWFzdGVyL3YudHh0"
               ]
       }

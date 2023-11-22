@@ -8,9 +8,10 @@
 ## spider
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
 "spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
-
+//"proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZTE4LnR4dA==",
 # 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZTE4LnR4dA==",
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
+
 "proxy://do=live&type=txt&ext=dGhpcyBpcyBhIGV4YW1wbGVodHRwczovL2FnaXQuYWkvbGVldmkvZHVvL3Jhdy9icmFuY2gvbWFzdGVyL3YudHh0"]}]}],
 
 "sites":[
