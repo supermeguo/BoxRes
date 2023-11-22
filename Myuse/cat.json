@@ -5,21 +5,12 @@
 
 
 {
-## spider
+  ## spider
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
 "spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
 
 # 直播
-//"proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZS50eHQ=",
-"lives":[{"group":"redirect","channels":[
-      {
-      "name":"live",
-      "urls":[
-
-              "proxy://do=live&type=txt&ext=dGhpcyBpcyBhIGV4YW1wbGVodHRwczovL2FnaXQuYWkvbGVldmkvZHVvL3Jhdy9icmFuY2gvbWFzdGVyL3YudHh0"
-              ]
-      }
-      ]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZS50eHQ="]}]}],
 
 "sites":[
 {"key": "量子资源", "name": "🥑量子资源", "type": 1, "api": "http://cj.lziapi.com/api.php/provide/vod/", "playUrl": "", "searchable": 1, "quickSearch": 1, "categories": ["国产剧",
