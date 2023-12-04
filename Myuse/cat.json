@@ -10,7 +10,9 @@
 "spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
 
 # 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZTE4LnR4dA=="
+]}]}],
 
 "sites":[
 {"key": "量子资源", "name": "🥑量子资源", "type": 1, "api": "http://cj.lziapi.com/api.php/provide/vod/", "playUrl": "", "searchable": 1, "quickSearch": 1, "categories": ["国产剧",
@@ -22,7 +24,6 @@
 {"key":"csp_xpath_tvci","name":"大师兄(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/dashixong.json"},
 //{"key":"csp_xpath_tvshi","name":"新视觉","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/xshijue.json"},
 {"key":"csp_xpath_tvqing","name":"青苹果","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/qpingguo.json"},
-],
 
 "parses":[
 ],
