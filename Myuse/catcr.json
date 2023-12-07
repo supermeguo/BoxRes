@@ -91,32 +91,14 @@
 ]
 },
 {
-"key": "番外",
-"name": "番外采集",
-"type": 1,
-"api": "http://fhapi9.com/api.php/provide/vod/",
-"playUrl": "",
+"key": "csp_xBPQ_超清",
+"name": "香蕉超清",
+"type": 3,
+"api": "csp_xBPQ",
 "searchable": 1,
-"quickSearch": 0,
-"filterable": 1,
-"categories": [
-"群交淫乱",
-"偷拍自拍",
-"制服丝袜",
-"无码专区",
-"卡通动漫",
-"中文字幕",
-"欧美性爱",
-"巨乳美乳",
-"国产裸聊",
-"国产自拍",
-"国产盗摄",
-"伦理三级",
-"女同性恋",
-"少女萝莉",
-"人妖系列",
-"虚拟VR"
-]
+"quickSearch": 1,
+"filterable": 0,
+"ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }","jar":"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"
 },
 {
 "key": "乐播",
@@ -145,11 +127,7 @@
 "重口色情",
 "人兽性交"
 ]
-},
-{"key": "*61783", "name": "*61783", "type": 1, "api": "https://61783.xyz/api.php/provide/art/", "searchable": 1, "quickSearch": 0
-},
-{
-"key": "push_agent", "name": "推送", "type": 3, "api": "csp_PushAgent", "searchable": 1, "quickSearch": 0, "filterable": 0}
+}
 ],
 "parses":[
 ],
