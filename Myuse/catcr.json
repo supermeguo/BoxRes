@@ -89,45 +89,8 @@
 "AI换脸",
 "国产传媒"
 ]
-},
-{
-"key": "csp_xBPQ_超清",
-"name": "香蕉超清",
-"type": 3,
-"api": "csp_xBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }","jar":"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"
-},
-{
-"key": "乐播",
-"name": "️乐播采集",
-"type": 1,
-"api": "https://lbapi9.com/api.php/provide/vod/",
-"playUrl": "",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"categories": [
-"亚洲情色",
-"国产主播",
-"国产自拍",
-"无码专区",
-"欧美性爱",
-"熟女人妻",
-"强奸乱伦",
-"巨乳美乳",
-"中文字幕",
-"制服诱惑",
-"女同性恋",
-"卡通动画",
-"视频伦理",
-"少女萝莉",
-"重口色情",
-"人兽性交"
-]
 }
+{
 ],
 "parses":[
 ],
