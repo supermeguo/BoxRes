@@ -3,7 +3,7 @@
   "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36",
   "homeUrl": "https://www.mov8.cc/",
   "dcVipFlag": "true",
-  "pCfgJs": "https://www.mov8.cc/static/js/playerconfig.js",
+  "pCfgJs": "https://www.finebv.com/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
@@ -56,10 +56,10 @@
   "dtUrlNode": "//ul[contains(@class,'stui-content__playlist clearfix')]",
   "dtUrlSubNode": "/li/a",
   "dtUrlId": "/@href",
-  "dtUrlIdR": "id/(\\w+)/sid",
+  "dtUrlIdR": "/vod/play/id/(\\S+).html",
   "dtUrlName": "//text()",
   "dtUrlNameR": "",
-  "playUrl": "https://www.mov8.cc/index.php/vod/play/id/{playUrl}/sid/1/nid/1.html",
+  "playUrl": "https://www.mov8.cc/index.php/vod/play/id/{playUrl}.html",
   "playUa": "",
   "searchUrl": "https://www.mov8.cc/index.php/vod/search.html?&wd={wd}&submit=",
   "scVodNode": "//ul[contains(@class,'stui-vodlist__media')]/li/div[contains(@class,'thumb')]/a",
@@ -72,7 +72,7 @@
     "8": [
       {
         "key": "class",
-        "name": "按剧情",
+        "name": "剧情",
         "value": [
           {"n": "全部","v": ""},
           {"n": "喜剧","v": "喜剧"}, {"n": "爱情","v": "爱情"}, {"n": "恐怖","v": "恐怖"}, {"n": "动作","v": "动作"}, {"n": "科幻","v": "科幻"}, {"n": "动作","v": "动作"},
