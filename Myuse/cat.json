@@ -2,33 +2,27 @@
 //        https://github.com/CatVodTV/YuanHsingfreed/tree/master    https://github.com/orgs/CatVodTVOfficial/repositories  https://github.com/mengzehe/TVBox
 //https://github.com/hd9211    //直播源搜索页 http://tonkiang.us/
 
-
-
 {
-  #
   # spider
-//"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
 "spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
 # 直播
-//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
-"lives":[{"group": "redirect", "channels":[{"name": "live", "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZS50eHQ="]}]}],
+"lives":[{"group": "redirect", "channels":[{"name": "live",
+"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZS50eHQ="]}]}],
 "sites":[
-{"key": "量子资源", "name": "🥑量子资源", "type": 1, "api": "http://cj.lziapi.com/api.php/provide/vod/", "playUrl": "", "searchable": 1, "quickSearch": 1, "categories": [
-"国产剧",
-"国产动漫", "泰国剧", "台湾剧", "香港剧","欧美剧", "韩国剧", "日本剧", "动漫", "体育","剧情片", "动作片", "爱情片", "喜剧片"
-]
+{"key": "量子资源", "name": "🥑量子资源", "type": 1, "api": "http://cj.lziapi.com/api.php/provide/vod/", "playUrl": "",
+"searchable": 1, "quickSearch": 1, "categories":
+["国产剧", "国产动漫", "泰国剧", "台湾剧", "香港剧","欧美剧", "韩国剧", "日本剧", "动漫", "体育","剧情片", "动作片", "爱情片", "喜剧片"]
 },
-{"key": "csp_xpath_唐人街", "name": "唐人街(XPF)", "type": 3, "api": "csp_XPathMacFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/trenjie.json"
-},
-{
-"key": "csp_xpath_saohuotv", "name": "骚火电影(XP)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/saohuo.json"},
-{"key": "csp_xpath_大师兄", "name": "大师兄(XPF)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/dashixong.json"
-},
-{
-"key": "csp_xpath_海兔", "name": "海兔", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/haitu.json"
-},
-{
-"key": "csp_xpath_新视觉", "name": "新视觉", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/xshijue.json"},
+{"key": "csp_xpath_唐人街", "name": "唐人街(XPF)", "type": 3, "api": "csp_XPathMacFilter", "searchable": 1, "quickSearch": 1, "filterable": 1,
+"ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/trenjie.json"},
+{"key": "csp_xpath_saohuotv", "name": "骚火电影(XP)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 0,
+"ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/saohuo.json"},
+{"key": "csp_xpath_dashixiong", "name": "大师兄(XPF)", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1,
+"ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/dashixong.json"},
+{"key": "csp_xpath_haitu", "name": "海兔", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1,
+"ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/haitu.json"},
+{"key": "csp_xpath_xinshijue", "name": "新视觉", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1,
+"ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/xshijue.json"},
 {
 "key": "haiwaikan",
 "name": "海外看",
@@ -71,7 +65,8 @@
 "经典片"
 ]
 },
-{"key": "csp_xpath_tvqing", "name": "青苹果", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/qpingguo.json"}
+{"key": "csp_xpath_tvqing", "name": "青苹果", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1,
+"ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/qpingguo.json"}
 ],
 "parses":[
 ],
@@ -156,6 +151,8 @@
 {"category": 1, "name": "dns_cache_timeout", "value": "600000000"}
 ]}
 ],
-"ads":["mimg.0c1q0l.cn", "www.googletagmanager.com", "www.google-analytics.com", "mc.usihnbcq.cn", "mg.g1mm3d.cn","mscs.svaeuzh.cn", "cnzz.hhttm.top", "tp.vinuxhome.com", "cnzz.mmstat.com", "www.baihuillq.com","s23.cnzz.com", "z3.cnzz.com", "c.cnzz.com", "stj.v1vo.top", "z12.cnzz.com","img.mosflower.cn", "tips.gamevvip.com", "ehwe.yhdtns.com", "xdn.cqqc3.com", "www.jixunkyy.cn","sp.chemacid.cn", "hm.baidu.com", "s9.cnzz.com", "z6.cnzz.com", "um.cavuc.com","mav.mavuz.com", "wofwk.aoidf3.com", "z5.cnzz.com", "xc.hubeijieshikj.cn", "tj.tianwenhu.com","xg.gars57.cn", "k.jinxiuzhilv.com", "cdn.bootcss.com", "ppl.xunzhuo123.com", "xomk.jiangjunmh.top","img.xunzhuo123.com", "z1.cnzz.com", "s13.cnzz.com", "xg.huataisangao.cn", "z7.cnzz.com","xg.huataisangao.cn", "z2.cnzz.com", "s96.cnzz.com", "q11.cnzz.com", "thy.dacedsfa.cn","xg.whsbpw.cn", "s19.cnzz.com", "z8.cnzz.com", "s4.cnzz.com", "f5w.as12df.top","ae01.alicdn.com", "www.92424.cn", "k.wudejia.com", "vivovip.mmszxc.top", "qiu.xixiqiu.com","cdnjs.hnfenxun.com", "cms.qdwght.com"]
+"ads":[
+"mimg.0c1q0l.cn", "www.googletagmanager.com", "www.google-analytics.com", "mc.usihnbcq.cn", "mg.g1mm3d.cn","mscs.svaeuzh.cn", "cnzz.hhttm.top", "tp.vinuxhome.com", "cnzz.mmstat.com", "www.baihuillq.com","s23.cnzz.com", "z3.cnzz.com", "c.cnzz.com", "stj.v1vo.top", "z12.cnzz.com","img.mosflower.cn", "tips.gamevvip.com", "ehwe.yhdtns.com", "xdn.cqqc3.com", "www.jixunkyy.cn","sp.chemacid.cn", "hm.baidu.com", "s9.cnzz.com", "z6.cnzz.com", "um.cavuc.com","mav.mavuz.com", "wofwk.aoidf3.com", "z5.cnzz.com", "xc.hubeijieshikj.cn", "tj.tianwenhu.com","xg.gars57.cn", "k.jinxiuzhilv.com", "cdn.bootcss.com", "ppl.xunzhuo123.com", "xomk.jiangjunmh.top","img.xunzhuo123.com", "z1.cnzz.com", "s13.cnzz.com", "xg.huataisangao.cn", "z7.cnzz.com","xg.huataisangao.cn", "z2.cnzz.com", "s96.cnzz.com", "q11.cnzz.com", "thy.dacedsfa.cn","xg.whsbpw.cn", "s19.cnzz.com", "z8.cnzz.com", "s4.cnzz.com", "f5w.as12df.top","ae01.alicdn.com", "www.92424.cn", "k.wudejia.com", "vivovip.mmszxc.top", "qiu.xixiqiu.com","cdnjs.hnfenxun.com", "cms.qdwght.com"
+]
 }
 

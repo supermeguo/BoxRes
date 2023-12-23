@@ -3,11 +3,8 @@
 //https://github.com/hd9211    //直播源搜索页 http://tonkiang.us/
 //https://github.com/mengzehe/TVBox/tree/main     18+资源
 
-
 {
-  #
   # spider
-//"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
 "spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
 # 直播
 "lives":[
@@ -27,13 +24,13 @@
 },
 {
 "key": "csp_xpath_saohuotv", "name": "骚火电影(XP)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/saohuo.json"},
-{"key": "csp_xpath_大师兄", "name": "大师兄(XPF)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/dashixong.json"
+{"key": "csp_xpath_大师兄", "name": "大师兄(XPF)", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/dashixong.json"
 },
 {
-"key": "csp_xpath_海兔", "name": "海兔", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/haitu.json"
+"key": "csp_xpath_海兔", "name": "海兔", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/haitu.json"
 },
 {
-"key": "csp_xpath_新视觉", "name": "新视觉", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/xshijue.json"},
+"key": "csp_xpath_新视觉", "name": "新视觉", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/xshijue.json"},
 {
 "key": "haiwaikan",
 "name": "海外看",
