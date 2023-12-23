@@ -27,10 +27,13 @@
 },
 {
 "key": "csp_xpath_saohuotv", "name": "骚火电影(XP)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/saohuo.json"},
-{"key": "csp_xpath_tvci", "name": "大师兄(XPF)", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/dashixong.json"
+{"key": "csp_xpath_大师兄", "name": "大师兄(XPF)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/dashixong.json"
 },
-{"key":"csp_xpath_tvci","name":"海兔","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/haitu.json"},
-{"key":"csp_xpath_tvshi","name":"新视觉","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/xshijue.json"},
+{
+"key": "csp_xpath_海兔", "name": "海兔", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/haitu.json"
+},
+{
+"key": "csp_xpath_新视觉", "name": "新视觉", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/xshijue.json"},
 {
 "key": "haiwaikan",
 "name": "海外看",
@@ -73,33 +76,32 @@
 "经典片"
 ]
 },
-
 {
 "key": "csp_xpath_tvqing", "name": "青苹果", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/qpingguo.json"
 },
 #18+
 
 {
-"key": "*色猫资源", "name": "*色猫资源","type": 1, "api": "https://api.maozyapi.com/inc/apijson_vod.php", "searchable":1, "quickSearch": 0
+"key": "*色猫资源", "name": "*色猫资源", "type": 1, "api": "https://api.maozyapi.com/inc/apijson_vod.php", "searchable": 1, "quickSearch": 0
 },
 {
-"key":"*色南国资源", "name": "*色南国资源", "type": 1,"api": "https://api.sexnguon.com/api.php/provide/vod/", "searchable": 1, "quickSearch":0
+"key": "*色南国资源", "name": "*色南国资源", "type": 1, "api": "https://api.sexnguon.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 0
 },
 {
-"key": "*抖阴视频", "name":"*抖阴视频", "type": 1, "api": "https://www.888dav.com/api.php/provide/vod/","searchable": 1, "quickSearch": 0
+"key": "*抖阴视频", "name": "*抖阴视频", "type": 1, "api": "https://www.888dav.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 0
 },
-{"key": "*麻豆视频2", "name": "*麻豆视频2", "type":1, "api": "https://madouse.la/api.php/provide/vod/", "searchable": 1,"quickSearch": 0
-},
-{
-"key": "*蛋蛋视频","name": "*蛋蛋视频", "type": 1, "api":"https://156.249.29.8/inc/apijson_vod.php", "searchable": 1, "quickSearch": 0},
-{
-"key": "*91麻豆", "name": "*91麻豆","type": 1, "api": "https://91md.me/api.php/provide/vod/", "searchable":1, "quickSearch": 0
+{"key": "*麻豆视频2", "name": "*麻豆视频2", "type": 1, "api": "https://madouse.la/api.php/provide/vod/", "searchable": 1, "quickSearch": 0
 },
 {
-"key":"*玖玖资源", "name": "*玖玖资源", "type": 0,"api": "http://99zywcj.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch":0
+"key": "*蛋蛋视频", "name": "*蛋蛋视频", "type": 1, "api": "https://156.249.29.8/inc/apijson_vod.php", "searchable": 1, "quickSearch": 0},
+{
+"key": "*91麻豆", "name": "*91麻豆", "type": 1, "api": "https://91md.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 0
 },
 {
-"key": "*狼少年", "name":"*狼少年", "type": 0, "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable": 1, "quickSearch": 0
+"key": "*玖玖资源", "name": "*玖玖资源", "type": 0, "api": "http://99zywcj.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 0
+},
+{
+"key": "*狼少年", "name": "*狼少年", "type": 0, "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 0
 },
 {
 "key": "色窝资源",
