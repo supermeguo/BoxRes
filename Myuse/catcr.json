@@ -5,7 +5,8 @@
 
 {
   # spider
-"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+
+"spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 # 直播
 "lives":[
 {"group": "redirect", "channels":[
