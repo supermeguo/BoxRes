@@ -2,7 +2,7 @@
 
 {
   "spider": "https://mirror.ghproxy.com/https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
-  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+  "wallpaper": "https://bing.img.run/rand.php",
   "lives": [
     {
       "group": "redirect",
