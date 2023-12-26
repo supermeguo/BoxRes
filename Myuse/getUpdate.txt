@@ -1,7 +1,7 @@
 {
-    "versionName":"1.0.11",
-    "versionCode":1011,
-    "downLoadUrl":"https://github.com/supermeguo/BoxRes/raw/main/Myuse/CatV_v1.0.0.apk",
-    "updateDes":"1、直播播放器样式修改",
+    "versionName":"1.0.0",
+    "versionCode":100,
+    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_v1.0.0.apk",
+    "updateDes":"1、新版",
     "isMust":false
 }
