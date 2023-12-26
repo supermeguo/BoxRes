@@ -1,29 +1,26 @@
 // 我的 --> 设置 -->  配置地址 --> 请输入 https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/cat.json --> 确定
-//        https://github.com/CatVodTV/YuanHsingfreed/tree/master    https://github.com/orgs/CatVodTVOfficial/repositories  https://github.com/mengzehe/TVBox
-//https://github.com/hd9211    //直播源搜索页 http://tonkiang.us/
-//https://github.com/takagen99   takagen99仓库
 
 {
   # spider
-"spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+"spider": "https://mirror.ghproxy.com/https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 # 直播
 "lives":[{"group": "redirect", "channels":[{"name": "live",
-"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZS50eHQ="]}]}],
+"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZS50eHQ="]}]}],
 "sites":[
 {"key": "量子资源", "name": "🥑量子资源", "type": 1, "api": "http://cj.lziapi.com/api.php/provide/vod/", "playUrl": "",
 "searchable": 1, "quickSearch": 1, "categories":
 ["国产剧", "国产动漫", "泰国剧", "台湾剧", "香港剧","欧美剧", "韩国剧", "日本剧", "动漫", "体育","剧情片", "动作片", "爱情片", "喜剧片"]
 },
 {"key": "csp_xpath_唐人街", "name": "唐人街(XPF)", "type": 3, "api": "csp_XPathMacFilter", "searchable": 1, "quickSearch": 1, "filterable": 1,
-"ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/trenjie.json"},
+"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/trenjie.json"},
 {"key": "csp_xpath_saohuotv", "name": "骚火电影(XP)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 0,
-"ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/saohuo.json"},
+"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/saohuo.json"},
 {"key": "csp_xpath_dashixiong", "name": "大师兄(XPF)", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1,
-"ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/dashixong.json"},
+"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/dashixong.json"},
 {"key": "csp_xpath_haitu", "name": "海兔", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1,
-"ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/haitu.json"},
+"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/haitu.json"},
 {"key": "csp_xpath_xinshijue", "name": "新视觉", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1,
-"ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/xshijue.json"},
+"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/xshijue.json"},
 {
 "key": "haiwaikan",
 "name": "海外看",
@@ -67,7 +64,7 @@
 ]
 },
 {"key": "csp_xpath_tvqing", "name": "青苹果", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1,
-"ext": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/qpingguo.json"}
+"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/qpingguo.json"}
 ],
 "parses":[
 ],
