@@ -65,11 +65,11 @@
   "playUrl": "https://trjyingshi.com/index.php/vod/play/id/{playUrl}.html",
   "playUa": "",
   "searchUrl": "https://trjyingshi.com/index.php/vod/search/wd/{wd}.html",
-  "scVodNode": "json:list",
-  "scVodName": "name",
-  "scVodId": "id",
-  "scVodIdR": "",
-  "scVodImg": "pic",
+  "scVodNode": "//a[contains(@class,'hl-item-thumb hl-lazy')]",
+  "scVodName": "/@title",
+  "scVodId": "/@href",
+  "scVodIdR": "/vod/detail/id/(\\w+).html",
+  "scVodImg": "/@data-original",
   "scVodMark": "",
   "filter": {
     "1": [
