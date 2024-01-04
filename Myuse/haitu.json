@@ -68,7 +68,7 @@
   "scVodNode": "//div[contains(@class,'module-item-pic')]",
   "scVodName": "//img/@alt",
   "scVodId": "/a/@href",
-  "scVodIdR": "id/(\\w+)/sid",
+  "scVodIdR": "/id/(\\w+).html",
   "scVodImg": "//img/@data-src",
   "scVodMark": "\\S+(http\\S+)",
   "filter": {
