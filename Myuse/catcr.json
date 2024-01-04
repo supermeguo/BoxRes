@@ -3,7 +3,7 @@
 
 {
   "spider": "https://mirror.ghproxy.com/https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
-  "wallpaper": "https://bing.img.run/rand.php",
+  "wallpaper": "https://api.btstu.cn/sjbz/?lx=dongman",
   "lives": [
     {
       "group": "redirect",
