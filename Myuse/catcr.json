@@ -143,80 +143,22 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/qpingguo.json"
     },
     {
-      "key": "csp_XBPQ_zhengbnongmys",
-      "name": "🍹正版农民影视(老徐推荐:无广告)",
+      "key": "csp_XBPQ_jukankan",
+      "name": "🍹剧看看影视(代替乐猪)",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": {
-        "请求头": "手机",
-        "倒序": "1",
-        "主演": "主演:&&</div>",
-        "副标题": "<span>&&<em>",
-        "播放数组": "class=\\\"numList&&</div>",
-        "简介": "简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
-        "路数组": "javascript:;&&/a>",
-        "线路标题": ">&&<",
-        "分类": "电影$1#电视剧$2#国产剧$12#港剧$13#美剧$15#动漫$4#综艺$3",
-        "分类url": "https://m.xiangdao.me/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class-0-year-0-letter--area--lang-.html"
-      }
-    },
-    {
-      "key": "drpy_js_虎牙",
-      "name": "🍹虎牙直播",
-      "type": 3,
-      "api": "https://agit.ai/xuge/js/raw/branch/master/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xutv.tk/xb/huyazb.js"
-    },
-    {
-      "key": "drpy_js_斗鱼",
-      "name": "🍹斗鱼直播",
-      "type": 3,
-      "api": "https://agit.ai/xuge/js/raw/branch/master/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://xutv.alwaysdata.net/js/dyu.js"
-    },
-    {
-      "key": "csp_XBPQ_达达龟",
-      "name": "🍹达达龟影视(老徐推荐)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "免嗅": "0",
-        "主演": "主演:&&</div>",
-        "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
-        "副标题": "class=\"pic-text text-right\">&&</span>",
-        "线路数组": "stui-vodlist__head&&/div>",
+        "简介": "简介：&&</span>",
+        "主演": "主演：&&</p>",
+        "副标题": "class=\"pic-text text-righ\">&&</span>",
+        "线路数组": "stui-vodlist__head&&</div>",
         "线路标题": "<h3>&&</h3>",
+        "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "分类url": "https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"
-      }
-    },
-    {
-      "key": "csp_XBPQ_heihu",
-      "name": "🍹黑狐影视(推荐)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "副标题": "class=\\\"pic-text text-right\\\">&&</span>",
-        "线路数组": "data-toggle&&</li>",
-        "线路标题": ">&&</a>",
-        "播放数组": "class=\\\"stui-content__playlist&&</ul>",
-        "分类": "电影$1#电视剧$2#综艺$4#动漫$3",
-        "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html"
+        "分类url": "https://jukankan.cc/vodtype/{cateId}-{catePg}.html"
       }
     },
     {
@@ -230,51 +172,15 @@
       "ext": {
         "免嗅": "1",
         "演员": "主演：&&</div>",
-        "简介": "class=\\\"module-info-introduction-content&&</div>",
-        "副标题": "class=\\\"module-item-note\\\">&&</div>",
-        "线路数组": "class=\\\"module-tab-item tab-item&&</div>",
+        "简介": "class=\"module-info-introduction-content&&</div>",
+        "副标题": "class=\"module-item-note\">&&</div>",
+        "线路数组": "class=\"module-tab-item tab-item&&</div>",
         "线路标题": "<span>&&</small>",
-        "播放数组": "class=\\\"module-play-list&&</div>",
+        "播放数组": "class=\"module-play-list&&</div>",
         "分类": "电影$1#电视剧$2#国产剧$22#港剧$26#美剧$23#综艺$3#动漫$4",
         "分类url": "https://www.miushuo.com/vodshow/{cateId}--------{catePg}---.html"
       }
     },
-    {
-      "key":"csp_XBPQ_大师兄影院",
-      "name":"🍹大师兄影院",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":{
-      "主演":"主演:&&</div>",
-      "播放数组":"class=\\\"module-play-list&&</div>",
-      "简介":"module-blocklist scroll-boxscroll-box-ymodule-player-list\\\"&&</span>",
-      "副标题":"class=\\\"module-item-note\\\">&&</div>",
-      "线路数组":"class=\\\"module-tab-item tab-item&&</div>",
-      "线路标题":"<span>&&</small>",
-      "分类":"电影$1#电视剧$2#国产剧$13#港剧$14#综艺$3#动漫$4",
-      "分类url":"https://dsxys.pro/vodshow/{cateId}--------{catePg}---.html"}},
-    {
-      "key":"csp_XBPQ_xinshijue",
-      "name":"🍹新视觉影视网",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":{
-      "免嗅":"1",
-      "主演":"主演：&&</div>",
-      "简介":"class=\\\"video-info-item video-info-content vod_content\\\"&&</div>",
-      "数组":"class=\\\"module-item-pic&&</div>",
-      "副标题":"class=\\\"module-item-text\\\">&&</div>",
-      "线路数组":"class=\\\"module-tab-item tab-item&&</div>",
-      "线路标题":"<span>&&</small>",
-      "播放数组":"class=\\\"scroll-content&&</div>",
-      "分类":"电影$1#电视剧$2#国产剧$42#港台剧$49#综艺$3#动漫$4",
-      "分类url":"https://www.6080yy3.com/vodshow/{cateId}--------{catePg}---.html"}},
     {
       "key": "*色猫资源",
       "name": "*色猫资源",
