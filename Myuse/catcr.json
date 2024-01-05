@@ -10,8 +10,8 @@
       "name": "TXT",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/live18.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "",
+      "logo": ""
     }
   ],
   "sites": [
