@@ -143,45 +143,6 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/qpingguo.json"
     },
     {
-      "key": "csp_XBPQ_jukankan",
-      "name": "🍹剧看看影视(代替乐猪)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "简介": "简介：&&</span>",
-        "主演": "主演：&&</p>",
-        "副标题": "class=\"pic-text text-righ\">&&</span>",
-        "线路数组": "stui-vodlist__head&&</div>",
-        "线路标题": "<h3>&&</h3>",
-        "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "分类url": "https://jukankan.cc/vodtype/{cateId}-{catePg}.html"
-      }
-    },
-    {
-      "key": "csp_XBPQ_pingguo",
-      "name": "🍹青苹果影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "免嗅": "1",
-        "演员": "主演：&&</div>",
-        "简介": "class=\"module-info-introduction-content&&</div>",
-        "副标题": "class=\"module-item-note\">&&</div>",
-        "线路数组": "class=\"module-tab-item tab-item&&</div>",
-        "线路标题": "<span>&&</small>",
-        "播放数组": "class=\"module-play-list&&</div>",
-        "分类": "电影$1#电视剧$2#国产剧$22#港剧$26#美剧$23#综艺$3#动漫$4",
-        "分类url": "https://www.miushuo.com/vodshow/{cateId}--------{catePg}---.html"
-      }
-    },
-    {
       "key": "*色猫资源",
       "name": "*色猫资源",
       "type": 1,
