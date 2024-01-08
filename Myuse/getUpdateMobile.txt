@@ -1,7 +1,7 @@
 {
     "versionName":"1.0.1",
     "versionCode":101,
-    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobiev1.0.1.apk",
-    "updateDes":"1、添加其他仓库源 2、播放器底部菜单放开",
+    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobiev1.0.2.apk",
+    "updateDes":"1、替换1DM+下载管理工具下载地址",
     "isMust":false
 }
