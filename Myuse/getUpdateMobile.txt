@@ -1,7 +1,7 @@
 {
-    "versionName":"1.0.3",
-    "versionCode":103,
-    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobiev1.0.3.apk",
-    "updateDes":"1、下载功能完善，点击播放；2、增加上次观看记录；3、优化本地视频播放速度逻辑",
+    "versionName":"1.0.4",
+    "versionCode":104,
+    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobiev1.0.4.apk",
+    "updateDes":"1、下载功能完善，点击播放；2、UI调整；3、优化本地视频播放速度逻辑",
     "isMust":false
 }
