@@ -1,6 +1,6 @@
 {
-    "versionName":"1.0.4",
-    "versionCode":104,
+    "versionName":"1.0.0",
+    "versionCode":100,
     "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobiev1.0.4.apk",
     "updateDes":"1、下载功能完善，点击播放；
     2、UI调整；
