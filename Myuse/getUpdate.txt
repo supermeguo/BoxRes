@@ -1,7 +1,7 @@
 {
     "versionName":"1.0.1",
     "versionCode":101,
-    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_v1.0.1.apk",
+    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_v1.0.2.apk",
     "updateDes":"1、添加其他仓库源",
     "isMust":false
 }
