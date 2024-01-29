@@ -2,6 +2,6 @@
     "versionName":"1.0.5",
     "versionCode":105,
     "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobile1.0.5.apk",
-    "updateDes":"1、界面美化，完善下载功能；修复已知bug,
+    "updateDes":"1、界面美化，完善下载功能；修复已知bug",
     "isMust":false
 }
