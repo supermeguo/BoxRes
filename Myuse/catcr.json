@@ -38,6 +38,30 @@
         "喜剧片",
         "伦理片"
       ]
+    },{
+      "key": "csp_KungFu404",
+      "name": "阿里｜设置token",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+      "jar": "./lib/alisz.jar"
+    },
+    {
+      "key": "配置中心",
+      "name": "阿里｜配置中心",
+      "type": 3,
+      "api": "csp_Config",
+      "jar": "./lib/mypg.jar",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "./lib/PG推送.json"
     },
     {
       "key": "csp_xpath_唐人街",
@@ -88,6 +112,58 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/xshijue.json"
+    },{
+      "key": "新视觉影院",
+      "name": "视觉🔥影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/yg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/xinshijue.json"
+    },{
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name": "📀玩偶哥哥(优)",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./lib/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/玩偶哥哥.json"
+    },
+    {
+      "key": "csp_XYQHikerAL_玩偶妹妹",
+      "name": "📀玩偶妹妹(优)",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./lib/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/玩偶妹妹.json"
+    },
+    {
+      "key": "开心玩偶",
+      "name": "开心🍹臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./lib/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/kaixinwogg.json"
+    },{
+      "key": "csp_XYQHikerAL_影视车弟弟",
+      "name": "影视车🚛臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./lib/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/yingshiche.json"
     },
     {
       "key": "haiwaikan",
@@ -140,6 +216,48 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/qpingguo.json"
+    },{
+      "key": "Bili",
+      "name": "🅱哔哔┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/bilibili.json"
+    }, {
+      "key": "PanSou",
+      "name": "🦊盘搜┃搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "UpYun",
+      "name": "😻Up搜┃搜索",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "PanSearch",
+      "name": "🙀盘Se┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
       "key": "*色猫资源",
