@@ -206,37 +206,31 @@
       "quickSearch": 0
     },
     {
-      "key": "色窝资源",
-      "name": "色窝资源",
-      "type": 1,
-      "api": "https://sewozyapi.com/api.php/provide/vod/",
-      "playUrl": "",
+      "key": "(18+)环亚资源",
+      "name": "(18+不错)环亚资源",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "categories": [
-        "制服黑丝",
-        "强奸乱伦",
-        "国产情色",
-        "主播直播",
-        "动漫里番",
-        "日韩综合",
-        "欧美性爱",
-        "中文字幕",
-        "强奸乱伦",
-        "巨乳美乳",
-        "变态调教",
-        "自拍偷拍",
-        "熟女人妻",
-        "日本无码",
-        "日本有码",
-        "少女萝莉",
-        "三级伦理",
-        "明星偶像",
-        "美女模特",
-        "AI换脸",
-        "国产传媒"
-      ]
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "ms4nii",
+      "name": "美少女资源(已修复)",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "KxrbspE",
+      "name": "淫水机资源(已修复)",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "push_agent",
