@@ -190,22 +190,6 @@
       "quickSearch": 0
     },
     {
-      "key": "*玖玖资源",
-      "name": "*玖玖资源",
-      "type": 0,
-      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 0
-    },
-    {
-      "key": "*狼少年",
-      "name": "*狼少年",
-      "type": 0,
-      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 0
-    },
-    {
       "key": "(18+)环亚资源",
       "name": "(18+不错)环亚资源",
       "type": 0,
@@ -277,7 +261,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
+    {
+      "key": "api.apilyzy.com",
+      "name": "成人71",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
     {
       "key": "push_agent",
       "name": "推送",
