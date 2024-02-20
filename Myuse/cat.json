@@ -89,6 +89,23 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/xshijue.json"
     },
     {
+      "key": "Xinsj",
+      "name": "新视觉",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.hdmyy.com/"
+    },
+    {
+      "key": "新视觉js",
+      "name": "新视觉[js]",
+      "type": 3,
+      "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
+      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/新视觉影视.js"
+    },
+    {
       "key": "haiwaikan",
       "name": "海外看",
       "type": 1,
@@ -141,12 +158,30 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/qpingguo.json"
     },
     {
+      "key": "农民",
+      "name": "农民",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
       "changeable": 0
+    },{
+      "key": "push_agent",
+      "name": "🛴手机┃推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     }
   ],
   "doh": [
