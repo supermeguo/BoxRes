@@ -109,6 +109,18 @@ CCTV-15音乐,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/
 东南卫视,http://111.207.22.10:8888/newlive/live/hls/44/live.m3u8
 东南卫视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
 
+凤凰卫视,http://110.72.103.246:808/hls/62/index.m3u8
+凤凰卫视,http://lhq-cctv.8866.org:18181/tsfile/live/1214_1.m3u8
+凤凰卫视,http://110.72.64.89:808/hls/62/index.m3u8
+凤凰卫视,http://183.1.251.235:8081/hls/37/index.m3u8
+
+凤凰卫视资讯台,http://115.201.180.132:8888/rtp/233.50.200.192:5140
+凤凰卫视资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰卫视资讯台,http://117.28.32.180:4022/rtp/239.61.2.183:9086
+凤凰卫视资讯台,http://110.87.27.146:8888/rtp/239.61.2.183:9086
+
+凤凰卫视中文台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰卫视中文台,http://183.142.58.150:8888/rtp/233.50.200.191:5140
 
 
 电影,#genre#
