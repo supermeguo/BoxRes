@@ -158,16 +158,6 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/qpingguo.json"
     },
     {
-      "key": "农民",
-      "name": "农民",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
-    },
-    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
@@ -176,12 +166,11 @@
       "changeable": 0
     },{
       "key": "push_agent",
-      "name": "🛴手机┃推送",
+      "name": "推送",
       "type": 3,
       "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "searchable": 1,
+      "changeable": 0
     }
   ],
   "doh": [
