@@ -31,7 +31,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/custom_spider.jar",
       "ext": "./ext/trenjie.json"
     },
     {
@@ -42,7 +41,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/custom_spider.jar",
       "ext": "../ext/saohuo.json"
     },
     {
@@ -53,7 +51,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/custom_spider.jar",
       "ext": "./ext/dashixong.json"
     },
     {
@@ -64,7 +61,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/custom_spider.jar",
       "ext": "./ext/haitu.json"
     },
     {
@@ -75,7 +71,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./lib/custom_spider.jar",
       "ext": "https://www.hdmyy.com/"
     },
     {
@@ -85,7 +80,6 @@
       "api": "https://haiwaikan.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./lib/custom_spider.jar",
       "categories": "./categories/海外看.json"
     },
     {
