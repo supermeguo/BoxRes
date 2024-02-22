@@ -31,7 +31,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/custom_spider.jar",
       "ext": "./ext/trenjie.json"
     },
     {
@@ -42,29 +41,26 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/custom_spider.jar",
-      "ext": "../ext/saohuo.json"
+      "ext": "./ext/saohuo.json"
     },
     {
-      "key": "csp_xpath_dashixiong",
+      "key": "csp_xpath_大师兄",
       "name": "大师兄(XPF)",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/custom_spider.jar",
       "ext": "./ext/dashixong.json"
     },
     {
-      "key": "csp_xpath_haitu",
+      "key": "csp_xpath_海兔",
       "name": "海兔",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/custom_spider.jar",
       "ext": "./ext/haitu.json"
     },
     {
@@ -75,7 +71,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./lib/custom_spider.jar",
       "ext": "https://www.hdmyy.com/"
     },
     {
@@ -85,7 +80,6 @@
       "api": "https://haiwaikan.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./lib/custom_spider.jar",
       "categories": "./categories/海外看.json"
     },
     {
@@ -224,7 +218,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./ext/玩偶妹妹.json"
+      "ext": "./lib/玩偶妹妹.json"
     },
     {
       "key": "csp_KungFu404",
