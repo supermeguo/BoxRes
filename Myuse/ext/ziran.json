@@ -1,0 +1,23 @@
+{
+  "站名": "孜然影视",
+  "练手": "yydf",
+  "类型": "class=\"tag\">&&</div",
+  "导演": "class=\"text\">导演：</span>&&</p",
+  "演员": "<span class=\"text\">主演：</span>&&</p",
+  "播放类型": "class=\"icon icon-video\"></i>立即播放",
+  "更新": "<span class=\"text\">更新：</span>&&</p",
+  "简介": "路飞影视提醒：资源免费，广告勿信！+class=\"text hidden-xs\">简介：</span>&&</p",
+  "搜索Url": "/index.php/vod/search.html",
+  "主页url": "https://www.zrys1.top/",
+  "数组": "<li class=\"col8\">&&</li",
+  "链接": "href=\"&&\"",
+  "图片": "data-original=\"&&\"",
+  "标题": "title=\"&&\"",
+  "副标题": "<p class=\"text\">&&</p",
+  "线路数组": "<div class=\"panel-hd\">&&</div>",
+  "线路标题": "<h3>&&</h3>[替换:在线播放>>路飞线路]",
+  "播放数组": "<ul class=\"shoutu-playlist sort-list playlist\">&&</ul>",
+  "选集名称": ">&&<",
+  "分类url": "https://www.zrys1.top/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+  "分类": "电影$1#电视剧$2#港台剧$14#综艺$3#动漫$4#纪录片$22"
+}

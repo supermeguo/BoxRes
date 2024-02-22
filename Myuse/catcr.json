@@ -5,14 +5,14 @@
     {
       "name": "TXT",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/live18.txt",
+      "url": "./live18.txt",
       "epg": "",
       "logo": ""
     },
     {
       "name": "TXT",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/18+.txt",
+      "url": "./18+.txt",
       "epg": "",
       "logo": ""
     }
@@ -26,23 +26,7 @@
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "泰国剧",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "动漫",
-        "体育",
-        "剧情片",
-        "动作片",
-        "爱情片",
-        "喜剧片",
-        "伦理片"
-      ]
+      "categories": "./categories/量子.json"
     },
     {
       "key": "csp_xpath_唐人街",
@@ -52,7 +36,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/trenjie.json"
+      "ext": "./ext/trenjie.json"
     },
     {
       "key": "csp_xpath_saohuotv",
@@ -62,7 +46,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/saohuo.json"
+      "ext": "./ext/saohuo.json"
     },
     {
       "key": "csp_xpath_大师兄",
@@ -72,7 +56,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/dashixong.json"
+      "ext": "./ext/dashixong.json"
     },
     {
       "key": "csp_xpath_海兔",
@@ -82,7 +66,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/haitu.json"
+      "ext": "./ext/haitu.json"
     },
     {
       "key": "csp_xpath_新视觉",
@@ -92,7 +76,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/xshijue.json"
+      "ext": "./ext/xshijue.json"
     },
     {
       "key": "Xinsj",
@@ -118,40 +102,7 @@
       "api": "https://haiwaikan.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
-      "categories": [
-        "日本动漫",
-        "国产动漫",
-        "欧美动漫",
-        "国产剧",
-        "韩剧",
-        "日剧",
-        "台剧",
-        "泰剧",
-        "港剧",
-        "欧美剧",
-        "动画电影",
-        "韩国综艺",
-        "国产综艺",
-        "日本综艺",
-        "欧美综艺",
-        "冒险片",
-        "剧情片",
-        "动作片",
-        "同性片",
-        "喜剧片",
-        "奇幻片",
-        "恐怖片",
-        "悬疑片",
-        "惊悚片",
-        "战争片",
-        "歌舞片",
-        "灾难片",
-        "爱情片",
-        "犯罪片",
-        "科幻片",
-        "纪录片",
-        "经典片"
-      ]
+      "categories": "./categories/海外看.json"
     },
     {
       "key": "csp_xpath_tvqing",
@@ -161,7 +112,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/qpingguo.json"
+      "ext": "./ext/qpingguo.json"
     },
     {
       "key": "王朝",
@@ -191,50 +142,94 @@
       "searchable": 1,
       "api": "https://leshizyapi.com/api.php/provide/vod/at/json",
       "playUrl": "",
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "泰国剧",
-        "欧美剧",
-        "香港剧",
-        "台湾剧",
-        "短剧",
-        "日剧",
-        "海外剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "电影解说",
-        "动作片",
-        "冒险片",
-        "动画片",
-        "喜剧片",
-        "爱情片",
-        "奇幻片",
-        "灾难片",
-        "悬疑片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "犯罪片",
-        "其他片"
-      ]
+      "categories": "./categories/乐视.json"
     },
     {
-      "key": "csp_XYQHikerAL_玩偶哥哥",
-      "name": "📀玩偶哥哥(优)",
+      "key": "孜然",
+      "name": "💥┃孜然2K┃秒播",
       "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./lib/xyq.jar",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/玩偶哥哥.json"
+      "changeable": 1,
+      "jar": "./lib/xbpq.jar",
+      "ext": ".ext/ziran.json"
+    },
+    {
+      "key": "csp_短剧网",
+      "name": "短剧网",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "jar": "./lib/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "陌陌",
+      "name": "🧡短剧2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./lib/dj0.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
+      "key": "横版影院",
+      "name": "短剧横版影院",
+      "type": 1,
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧"
+      ]
+    },
+    {
+      "key": "csp_XBPQ_vstv",
+      "name": "🎦┃短剧┃VS",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/yg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
+    {
+      "key": "Bili",
+      "name": "🅱哔哔┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./ext/bilibili.json"
+    },
+    {
+      "key": "Biliych",
+      "name": "🅱哔哔┃歌曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./ext/biliych.json"
     },
     {
       "key": "csp_XYQHikerAL_玩偶妹妹",
@@ -246,16 +241,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/玩偶妹妹.json"
-    },
-    {
-      "key": "csp_短剧网",
-      "name": "短剧网",
-      "type": 3,
-      "api": "csp_Duanjuw",
-      "jar": "./lib/xyq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_KungFu404",
