@@ -101,7 +101,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "",
-      "jar": "./lib/fix0804.jar"
     },
     {
       "key": "天天",
@@ -110,7 +109,6 @@
       "api": "csp_TTian",
       "playerType": 1,
       "ext": "http://op.ysdqjs.cn",
-      "jar": "./lib/fix12210.jar"
     },
     {
       "key": "乐视采集",
@@ -139,7 +137,6 @@
       "name": "短剧网",
       "type": 3,
       "api": "csp_Duanjuw",
-      "jar": "./lib/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -149,7 +146,6 @@
       "name": "🧡短剧2",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "./lib/dj0.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -172,7 +168,6 @@
       "name": "🎦┃短剧┃VS",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/yg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -214,7 +209,6 @@
       "name": "📀玩偶妹妹(优)",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./lib/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -229,14 +223,12 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "jar": "./lib/alisz.jar"
     },
     {
       "key": "配置中心",
       "name": "阿里｜配置中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "./lib/mypg.jar",
       "searchable": 0,
       "changeable": 0,
       "style": {
