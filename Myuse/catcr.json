@@ -69,16 +69,6 @@
       "ext": "./ext/haitu.json"
     },
     {
-      "key": "csp_xpath_新视觉",
-      "name": "新视觉",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./ext/xshijue.json"
-    },
-    {
       "key": "Xinsj",
       "name": "新视觉",
       "type": 3,
@@ -87,13 +77,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.hdmyy.com/"
-    },
-    {
-      "key": "新视觉js",
-      "name": "新视觉[js]",
-      "type": 3,
-      "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/新视觉影视.js"
     },
     {
       "key": "haiwaikan",
