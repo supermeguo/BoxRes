@@ -21,6 +21,7 @@
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
+      "jar": "./lib/custom_spider.jar",
       "categories": "./categories/量子.json"
     },
     {
