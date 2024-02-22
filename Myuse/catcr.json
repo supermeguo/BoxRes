@@ -8,6 +8,12 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/live18.txt",
       "epg": "",
       "logo": ""
+    },{
+      "name": "TXT",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/18+.txt",
+      "epg": "",
+      "logo": ""
     }
   ],
   "sites": [
