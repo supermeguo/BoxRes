@@ -76,7 +76,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/haitu.json",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/haitu.json"
     },
     {
       "key": "csp_xpath_xinshijue",
@@ -158,12 +158,153 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/qpingguo.json"
     },
     {
-      "key": "push_agent",
-      "name": "推送",
+      "key": "王朝",
+      "name": "💥丨王朝2k丨秒播",
       "type": 3,
-      "api": "csp_Push",
+      "api": "csp_Yswc",
       "searchable": 1,
-      "changeable": 0
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "",
+      "jar": "./lib/fix0804.jar"
+    },
+    {
+      "key": "天天",
+      "name": "💥┃天天2K┃秒播",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "http://op.ysdqjs.cn",
+      "jar": "./lib/fix12210.jar"
+    },
+    {
+      "key": "乐视采集",
+      "name": "乐视🏜️蓝光",
+      "type": 1,
+      "playerType": 2,
+      "searchable": 1,
+      "api": "https://leshizyapi.com/api.php/provide/vod/at/json",
+      "playUrl": "",
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "泰国剧",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "短剧",
+        "日剧",
+        "海外剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "电影解说",
+        "动作片",
+        "冒险片",
+        "动画片",
+        "喜剧片",
+        "爱情片",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "犯罪片",
+        "其他片"
+      ]
+    },
+    {
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name": "📀玩偶哥哥(优)",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./lib/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/玩偶哥哥.json"
+    },
+    {
+      "key": "csp_XYQHikerAL_玩偶妹妹",
+      "name": "📀玩偶妹妹(优)",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./lib/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/玩偶妹妹.json"
+    },
+    {
+      "key": "csp_短剧网",
+      "name": "短剧网",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "jar": "./lib/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_KungFu404",
+      "name": "阿里｜设置token",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+      "jar": "./lib/alisz.jar"
+    },
+    {
+      "key": "配置中心",
+      "name": "阿里｜配置中心",
+      "type": 3,
+      "api": "csp_Config",
+      "jar": "./lib/mypg.jar",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "./lib/PG推送.json"
+    },
+    {
+      "key": "PanSou",
+      "name": "🦊盘搜┃搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "UpYun",
+      "name": "😻Up搜┃搜索",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "PanSearch",
+      "name": "🙀盘Se┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
       "key": "push_agent",
