@@ -1,7 +1,7 @@
 // 我的 --> 设置 -->  配置地址 --> 请输入 https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/cat.json --> 确定
 
 {
-  "spider": "./lib/20240204.jar",
+  "spider": "./lib/guodaxia.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
