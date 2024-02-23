@@ -2,6 +2,6 @@
     "versionName":"1.0.2",
     "versionCode":102,
     "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_v1.0.2.apk",
-    "updateDes":"1、修复远程搜索失效问题;2、新增接收投屏SDK",
+    "updateDes":"\n1、修复远程搜索失效问题;\n2、新增接收投屏SDK",
     "isMust":false
 }
