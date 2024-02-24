@@ -8,13 +8,6 @@
       "url": "./live18.txt",
       "epg": "",
       "logo": ""
-    },
-    {
-      "name": "TXT",
-      "type": 0,
-      "url": "./18+.txt",
-      "epg": "",
-      "logo": ""
     }
   ],
   "sites": [
