@@ -5,7 +5,7 @@
     {
       "name": "TXT",
       "type": 0,
-      "url": "./live18.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/live18.txt",
       "epg": "",
       "logo": ""
     }
