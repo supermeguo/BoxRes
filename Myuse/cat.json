@@ -7,7 +7,7 @@
     {
       "name": "TXT",
       "type": 0,
-      "url": "./live.txt",
+      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "epg": "",
       "logo": ""
     }
