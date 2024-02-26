@@ -49,16 +49,6 @@
       ]
     },
     {
-      "key": "csp_xpath_唐人街",
-      "name": "唐人街(XPF)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./ext/trenjie.json"
-    },
-    {
       "key": "csp_xpath_saohuotv",
       "name": "骚火电影(XP)",
       "type": 3,
