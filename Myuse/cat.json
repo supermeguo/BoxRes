@@ -459,7 +459,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./lib/nmys.json"
+      "ext": "./ext/nmys.json"
     },{
       "key": "49zy",
       "name": "🍒49资源",
