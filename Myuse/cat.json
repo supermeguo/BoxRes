@@ -192,7 +192,8 @@
       "changeable": 1,
       "jar": "./lib/xbpq.jar",
       "ext": "./ext/ziran.json"
-    }, {
+    },
+    {
       "key": "南瓜",
       "name": "🎃南瓜┃App",
       "type": 3,
@@ -201,7 +202,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },{
+    },
+    {
       "key": "IKUN资源",
       "name": "💥丨爱看2k丨微广",
       "type": 1,
@@ -261,7 +263,8 @@
       ],
       "searchable": 1,
       "quickSearch": 1
-    }, {
+    },
+    {
       "key": "一起看 ",
       "name": "🎉一起┃App",
       "type": 3,
@@ -304,7 +307,8 @@
         "港台综艺",
         "欧美综艺"
       ]
-    },{
+    },
+    {
       "key": "鑫鑫影视",
       "name": "🐼┃鑫鑫┃影视",
       "type": 3,
@@ -313,7 +317,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },{
+    },
+    {
       "key": "49zy",
       "name": "🍒49资源",
       "type": 1,
@@ -357,7 +362,8 @@
         "体育赛事",
         "海外剧"
       ]
-    },{
+    },
+    {
       "key": "光速资源",
       "name": "🎀光速┃采集",
       "type": 1,
@@ -421,7 +427,8 @@
         "日本动漫",
         "欧美动漫"
       ]
-    },{
+    },
+    {
       "key": "红牛资源",
       "name": "🎀红牛┃采集",
       "type": 1,
@@ -446,12 +453,14 @@
         "纪录片",
         "动漫电影"
       ]
-    },{
+    },
+    {
       "key": "7ced0073619101d397b5c86fc3578ed4",
       "name": "💥┃火狐2K┃有广",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/"
-    },{
+    },
+    {
       "key": "csp_Nmys",
       "name": "🌾农民┃直连",
       "type": 3,
@@ -460,7 +469,19 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "./ext/nmys.json"
-    },{
+    },
+    {
+      "key": "drpy_js_荐片",
+      "name": "影视 | 荐片[js]",
+      "type": 3,
+      "api": "./ext/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./ext/荐片.js",
+      "timeout": 30
+    },
+    {
       "key": "49zy",
       "name": "🍒49资源",
       "type": 1,
