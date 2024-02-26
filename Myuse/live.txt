@@ -1,7 +1,7 @@
 
 💘中央,#genre#
-CCTV-1综合,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV-1综合,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1综合,http://115.215.160.24:9999/rtp/233.50.201.118:5140
 CCTV-1综合,http://101.19.60.244:9901/tsfile/live/0001_1.m3u8
 CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
