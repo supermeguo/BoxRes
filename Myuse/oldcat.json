@@ -200,6 +200,7 @@
       "name": "短剧网",
       "type": 3,
       "api": "csp_Duanjuw",
+      "jar": "./lib/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
