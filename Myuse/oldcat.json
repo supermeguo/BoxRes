@@ -202,7 +202,7 @@
       "name": "短剧网",
       "type": 3,
       "api": "csp_Duanjuw",
-      "jar": "./lib/xyq.jar",
+
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -212,7 +212,6 @@
       "name": "🧡短剧2",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "./lib/dj0.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
