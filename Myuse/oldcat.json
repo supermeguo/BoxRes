@@ -194,7 +194,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "./lib/xbpq.jar",
       "ext": "./ext/ziran.json"
     },
     {
@@ -202,7 +201,6 @@
       "name": "短剧网",
       "type": 3,
       "api": "csp_Duanjuw",
-
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
