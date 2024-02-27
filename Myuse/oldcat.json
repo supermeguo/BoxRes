@@ -273,27 +273,16 @@
       "ext": "./ext/biliych.json"
     },
 //    {
-//      "key": "csp_XYQHikerAL_玩偶妹妹",
-//      "name": "📀玩偶妹妹(优)",
+//      "key": "csp_KungFu404",
+//      "name": "阿里｜设置token",
 //      "type": 3,
-//      "api": "csp_XYQHikerAL",
-//      "jar": "./lib/xyq.jar",
+//      "api": "csp_KungFu404",
 //      "searchable": 1,
-//      "quickSearch": 1,
-//      "filterable": 1,
-//      "ext": "./lib/玩偶妹妹.json"
+//      "filterable": 0,
+//      "changeable": 0,
+//      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+//      "jar": "./lib/alisz.jar"
 //    },
-    {
-      "key": "csp_KungFu404",
-      "name": "阿里｜设置token",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "jar": "./lib/alisz.jar"
-    },
 //    {
 //      "key": "配置中心",
 //      "name": "阿里｜配置中心",
