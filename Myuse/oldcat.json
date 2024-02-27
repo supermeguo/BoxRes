@@ -210,6 +210,7 @@
       "name": "🧡短剧2",
       "type": 3,
       "api": "csp_AppYsV2",
+      "jar": "./lib/dj0.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
