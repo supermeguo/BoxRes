@@ -1,6 +1,6 @@
 
 {
-  "spider": "./lib/guodaxia.jar",
+  "spider": "./lib/guo.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -142,26 +142,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./ext/qpingguo.json"
-    },
-    {
-      "key": "王朝",
-      "name": "💥丨王朝2k丨秒播",
-      "type": 3,
-      "api": "csp_Yswc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "",
-      "jar": "./lib/fix0804.jar"
-    },
-    {
-      "key": "天天",
-      "name": "💥┃天天2K┃秒播",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 1,
-      "ext": "http://op.ysdqjs.cn",
-      "jar": "./lib/fix12210.jar"
     },
     {
       "key": "乐视采集",
@@ -314,50 +294,51 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
       "jar": "./lib/alisz.jar"
     },
-    {
-      "key": "配置中心",
-      "name": "阿里｜配置中心",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "./lib/mypg.jar",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "./lib/PG推送.json"
-    },
-    {
-      "key": "PanSou",
-      "name": "🦊盘搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "UpYun",
-      "name": "😻Up搜┃搜索",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "PanSearch",
-      "name": "🙀盘Se┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
+//    {
+//      "key": "配置中心",
+//      "name": "阿里｜配置中心",
+//      "type": 3,
+//      "api": "csp_Config",
+//      "jar": "./lib/mypg.jar",
+//      "searchable": 0,
+//      "changeable": 0,
+//      "style": {
+//        "type": "rect",
+//        "ratio": 1
+//      },
+//      "ext": "./lib/PG推送.json"
+//    },
+//  ,
+//    {
+//      "key": "PanSou",
+//      "name": "🦊盘搜┃搜索",
+//      "type": 3,
+//      "api": "csp_PanSou",
+//      "searchable": 1,
+//      "quickSearch": 1,
+//      "changeable": 0,
+//      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+//    },
+//    {
+//      "key": "UpYun",
+//      "name": "😻Up搜┃搜索",
+//      "type": 3,
+//      "api": "csp_UpYun",
+//      "searchable": 1,
+//      "quickSearch": 1,
+//      "changeable": 0,
+//      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+//    },
+//    {
+//      "key": "PanSearch",
+//      "name": "🙀盘Se┃搜索",
+//      "type": 3,
+//      "api": "csp_PanSearch",
+//      "searchable": 1,
+//      "quickSearch": 1,
+//      "changeable": 0,
+//      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+//    },
     {
       "key": "push_agent",
       "name": "推送",
