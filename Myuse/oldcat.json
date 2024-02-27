@@ -181,6 +181,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
+      "jar": "./lib/xbpq.jar",
       "filterable": 1,
       "changeable": 1,
       "ext": "./ext/ziran.json"
