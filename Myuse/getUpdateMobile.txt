@@ -1,7 +1,7 @@
 {
-    "versionName":"1.0.6",
-    "versionCode":106,
+    "versionName":"1.0.7",
+    "versionCode":107,
     "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobile1.0.6.apk",
-    "updateDes":"\n1.部分闪退问题修复;\n2.加入阿里播放器;\n3.详情页加入下载标记",
+    "updateDes":"\n1.订阅管理添加扫描二维码自动识别好友线路二维码",
     "isMust":false
 }
