@@ -12,8 +12,10 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 
 ### 柠檬影视 手机竖屏版
 >>最低支持安卓 **“7.0”**  📱
-
-📃下载地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_Mobile1.0.7.apk
+ 
+<a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_Mobile1.0.7.apk" target="_self">
+📃下载地址：
+</a>
 
 功能介绍：
 
@@ -36,7 +38,9 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 ### 柠檬TV  TV横屏版
 >>最低支持安卓**"5.0"** 📱
 
-📃下载地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_v1.0.2.apk
+<a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_v1.0.2.apk" target="_self">
+📃下载地址：
+</a>
 
 功能介绍：
 
