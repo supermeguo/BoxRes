@@ -1,16 +1,13 @@
 # 仓库配置说明
 
 自用仓库：
-
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/cat.json
 
 
 自用多线路仓库：
-
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/lemon.json 
 
 直播源：
-
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/live.txy
 
 # 柠檬影视 手机竖屏版
