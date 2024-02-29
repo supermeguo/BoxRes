@@ -2,6 +2,7 @@
 
 自用仓库：https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/cat.json
 自用多线路仓库：https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/lemon.json 
+直播源：https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/live.txy
 
 # 柠檬影视 手机竖屏版
 最低支持安卓 7.0
@@ -29,5 +30,5 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 2、兼容大部分tvbox接口;
 3、集成dlan（投屏）播放功能;
 
-# 飞机群  
+# 飞机讨论群  
 https://t.me/lemontvtvbox
