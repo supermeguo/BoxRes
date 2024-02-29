@@ -15,7 +15,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 # 柠檬影视 手机竖屏版
 最低支持安卓 7.0
 
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_Mobile1.0.7.apk
+📃下载地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_Mobile1.0.7.apk
 
 功能介绍：
 在基础tvbox功能上加入以下功能
@@ -37,7 +37,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 # 柠檬TV  TV横屏版
 最低支持安卓5.0
 
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_v1.0.2.apk
+📃下载地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_v1.0.2.apk
 
 功能介绍：
 
