@@ -1,3 +1,6 @@
+<h1>
+本项目仅用于学习，不存在传播或售卖</h1>
+
 # 仓库配置说明
 
 ### 自用仓库：
@@ -50,6 +53,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 </div>
 
 ### 功能介绍：
+
 > 在基础tvbox功能上加入以下功能
 
 1、应用内自动检测升级;
