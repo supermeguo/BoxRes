@@ -31,6 +31,14 @@
     {
       "url": "https://100km.top/0",
       "name": "100km"
+    },
+    {
+      "url": "https://atomgit.com/dwc8/12/raw/master/dc.json\n",
+      "name": "影视仓接口1"
+    },
+    {
+      "url": "https://notabug.org/wc/3/raw/master/100.json",
+      "name": "影视仓接口2"
     }
   ]
 }
