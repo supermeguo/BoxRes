@@ -10,7 +10,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 
 ### 直播源：
 
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/live.txy
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/live.txt
 
 # app介绍
 
