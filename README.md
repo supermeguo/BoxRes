@@ -20,7 +20,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 📃点击下载
 </a>
 </div>
-<br />
 
 ### 功能介绍：
 
@@ -46,8 +45,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 <div>
 <a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_v1.0.2.apk" target="_self">
 📃点击下载</a>
-</div>
-<br />
 
 ### 功能介绍：
 > 在基础tvbox功能上加入以下功能
@@ -58,7 +55,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 
 3、集成dlan（投屏）播放功能;
 
-### 小猫TV  TV横屏版
+### 小猫TV  TV横屏版 （后续不维护）
 
 > 最低支持安卓 **4.1** 📱
 <div>
@@ -66,7 +63,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 📃点击下载</a>
 </div>
 <br />
-后续不维护
 
 ### 飞机讨论群
 
