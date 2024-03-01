@@ -1,18 +1,18 @@
 # 仓库配置说明
 
-## 自用仓库：
+### 自用仓库：
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/cat.json
 
-## 自用多线路仓库：
+### 自用多线路仓库：
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/lemon.json
 
-## 直播源：
+### 直播源：
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/live.txy
 
-### 柠檬影视 手机竖屏版
+## 1、柠檬影视 手机竖屏版
 
 > 最低支持安卓 **7.0**  📱
  <div>
@@ -39,12 +39,13 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 
 7、分享功能;
 
-### 柠檬TV  TV横屏版
+## 2、柠檬TV  TV横屏版
 
 > 最低支持安卓 **5.0** 📱
 <div>
 <a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_v1.0.2.apk" target="_self">
 📃点击下载</a>
+</div>
 
 ### 功能介绍：
 > 在基础tvbox功能上加入以下功能
@@ -55,14 +56,14 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 
 3、集成dlan（投屏）播放功能;
 
-### 小猫TV  TV横屏版 （后续不维护）
+## 3、小猫TV  TV横屏版 （后续不维护）
 
 > 最低支持安卓 **4.1** 📱
 <div>
 <a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/CatV_v1.0.11.apk" target="_self">
 📃点击下载</a>
 </div>
-<br />
+<br/>
 
 ### 飞机讨论群
 
