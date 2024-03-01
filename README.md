@@ -12,6 +12,8 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/live.txy
 
+# app介绍
+
 ## 1、柠檬影视 手机竖屏版
 
 > 最低支持安卓 **7.0**  📱
