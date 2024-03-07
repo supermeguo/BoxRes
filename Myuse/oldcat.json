@@ -16,18 +16,6 @@
   ],
   "sites": [
     {
-      "key": "孜然",
-      "name": "💥┃孜然2K┃秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "jar": "./lib/xbpq.jar",
-      "ext": "./ext/ziran.json"
-    },
-    {
       "key": "csp_XBPQ_vstv",
       "name": "🎦┃短剧┃VS",
       "type": 3,
