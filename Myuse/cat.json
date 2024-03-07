@@ -588,6 +588,7 @@
       "name": "🅱哔哔┃合集",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./lib/guodaxia.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -602,6 +603,7 @@
       "name": "🅱哔哔┃歌曲",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./lib/guodaxia.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -610,17 +612,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./ext/biliych.json"
-    },
-    {
-      "key": "csp_XYQHikerAL_玩偶妹妹",
-      "name": "📀玩偶妹妹(优)",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./lib/xyq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/玩偶妹妹.json"
     },
     {
       "key": "csp_KungFu404",
