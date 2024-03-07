@@ -192,18 +192,6 @@
       ]
     },
     {
-      "key": "孜然",
-      "name": "💥┃孜然2K┃秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "jar": "./lib/xbpq.jar",
-      "ext": "./ext/ziran.json"
-    },
-    {
       "key": "南瓜",
       "name": "🎃南瓜┃App",
       "type": 3,
