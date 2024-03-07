@@ -2,13 +2,6 @@
   "spider": "./lib/guo.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
-    //    {
-    //      "name": "TXT",
-    //      "type": 0,
-    //      "url": "./live.txt",
-    //      "epg": "",
-    //      "logo": ""
-    //    },
     {
       "group": "redirect",
       "channels": [
@@ -23,89 +16,51 @@
   ],
   "sites": [
     {
-      "key": "Bili",
-      "name": "🅱哔哔┃合集",
+      "key": "csp_短剧网",
+      "name": "短剧网",
       "type": 3,
-      "api": "csp_Bili",
-      "jar": "./lib/guodaxia.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./ext/bilibili.json"
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱哔哔┃歌曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "./lib/guodaxia.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./ext/biliych.json"
-    },
-    {
-      "key": "csp_KungFu404",
-      "name": "阿里｜设置token",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "jar": "./lib/alisz.jar"
-    },
-    {
-      "key": "配置中心",
-      "name": "阿里｜配置中心",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "./lib/mypg.jar",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "./lib/PG推送.json"
-    },
-    {
-      "key": "PanSou",
-      "name": "🦊盘搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSou",
+      "api": "csp_Duanjuw",
+      "jar": "./lib/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "filterable": 1
     },
     {
-      "key": "UpYun",
-      "name": "😻Up搜┃搜索",
+      "key": "陌陌",
+      "name": "🧡短剧2",
       "type": 3,
-      "api": "csp_UpYun",
+      "api": "csp_AppYsV2",
+      "jar": "./lib/dj0.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
     },
     {
-      "key": "PanSearch",
-      "name": "🙀盘Se┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
+      "key": "横版影院",
+      "name": "短剧横版影院",
+      "type": 1,
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "filterable": 1,
+      "categories": [
+        "短剧"
+      ]
+    },
+    {
+      "key": "csp_XBPQ_vstv",
+      "name": "🎦┃短剧┃VS",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/yg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+      }
     },
     {
       "key": "push_agent",
