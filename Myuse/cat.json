@@ -658,6 +658,15 @@
     },
     {
       "key": "push_agent",
+      "name": "🛴┃手机┃推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "push_agent",
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
