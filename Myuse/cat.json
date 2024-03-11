@@ -2,24 +2,25 @@
   "spider": "./lib/guodaxia.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
-    //    {
-    //      "name": "TXT",
-    //      "type": 0,
-    //      "url": "./live.txt",
-    //      "epg": "",
-    //      "logo": ""
-    //    },
-    {
-      "group": "redirect",
-      "channels": [
         {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZS50eHQ="
-          ]
+          "name": "TXT",
+          "type": 0,
+          "url": "./live.txt",
+          "epg": "",
+          "logo": ""
         }
-      ]
-    }
+//  ,
+//    {
+//      "group": "redirect",
+//      "channels": [
+//        {
+//          "name": "live",
+//          "urls": [
+//            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZS50eHQ="
+//          ]
+//        }
+//      ]
+//    }
   ],
   "sites": [
     {
