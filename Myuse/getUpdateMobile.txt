@@ -1,7 +1,7 @@
 {
-    "versionName":"1.0.7",
-    "versionCode":107,
-    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobile1.0.7.apk",
-    "updateDes":"\n1.订阅管理添加扫描二维码自动识别好友线路二维码",
+    "versionName":"1.0.8",
+    "versionCode":108,
+    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobile1.0.8.apk",
+    "updateDes":"\n1.支持直播长按跳转点播 播放器\n2.修复已知bug",
     "isMust":false
 }
