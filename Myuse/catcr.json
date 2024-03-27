@@ -792,6 +792,15 @@
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
+    },{
+      "key": "大地采集",
+      "name": "🔞大地av",
+      "type": 0,
+      "api": "https://dadiapi.com/apple_m3u8.php",
+      "playUrl": "https://play.dadiapi.com/watch?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "push_agent",
