@@ -21,7 +21,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 
 > 最低支持安卓 **7.0**  📱
  <div>
-<a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_Mobile1.0.7.apk" target="_self">
+<a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_Mobile1.0.8.apk" target="_self">
 📃点击下载
 </a>
 </div>
