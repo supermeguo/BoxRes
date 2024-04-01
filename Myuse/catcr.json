@@ -833,14 +833,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },{
-      "key": "xrbsp.com",
-      "name": "成人66",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
     },
     {
       "key": "push_agent",
