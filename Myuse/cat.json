@@ -384,20 +384,19 @@
         "短剧"
       ]
     },
-//    {
-//      "key": "csp_XBPQ_vstv",
-//      "name": "🎦┃短剧┃VS",
-//      "type": 3,
-//      "api": "csp_XBPQ",
-//      "jar": "./lib/yg.jar",
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "filterable": 1,
-//      "ext": {
-//        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
-//        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
-//      }
-//    },
+    {
+      "key": "csp_XBPQ_vstv",
+      "name": "🎦┃短剧┃VS",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
 //    {
 //      "key": "Bili",
 //      "name": "🅱哔哔┃合集",
