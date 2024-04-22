@@ -1,5 +1,5 @@
 {
-  "spider": "./lib/custom_spider.jar",
+  "spider": "./lib/guodaxia.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
 //    {
@@ -316,17 +316,17 @@
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/"
     },
-//    {
-//      "key": "drpy_js_荐片",
-//      "name": "影视 | 荐片[js]",
-//      "type": 3,
-//      "api": "./ext/drpy2.min.js",
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "changeable": 1,
-//      "ext": "./ext/荐片.js",
-//      "timeout": 30
-//    },
+    {
+      "key": "drpy_js_荐片",
+      "name": "影视 | 荐片[js]",
+      "type": 3,
+      "api": "./ext/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./ext/荐片.js",
+      "timeout": 30
+    },
     {
       "key": "49zy",
       "name": "🍒49资源",
@@ -384,49 +384,49 @@
         "短剧"
       ]
     },
+//    {
+//      "key": "csp_XBPQ_vstv",
+//      "name": "🎦┃短剧┃VS",
+//      "type": 3,
+//      "api": "csp_XBPQ",
+//      "searchable": 1,
+//      "quickSearch": 1,
+//      "filterable": 1,
+//      "ext": {
+//        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
+//        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+//      }
+//    },
     {
-      "key": "csp_XBPQ_vstv",
-      "name": "🎦┃短剧┃VS",
+      "key": "Bili",
+      "name": "🅱哔哔┃合集",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_Bili",
+      "jar": "./lib/guodaxia.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
-      }
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./ext/bilibili.json"
     },
-//    {
-//      "key": "Bili",
-//      "name": "🅱哔哔┃合集",
-//      "type": 3,
-//      "api": "csp_Bili",
-//      "jar": "./lib/guodaxia.jar",
-//      "style": {
-//        "type": "rect",
-//        "ratio": 1.597
-//      },
-//      "searchable": 1,
-//      "quickSearch": 0,
-//      "changeable": 0,
-//      "ext": "./ext/bilibili.json"
-//    },
-//    {
-//      "key": "Biliych",
-//      "name": "🅱哔哔┃歌曲",
-//      "type": 3,
-//      "api": "csp_Bili",
-//      "jar": "./lib/guodaxia.jar",
-//      "style": {
-//        "type": "rect",
-//        "ratio": 1.597
-//      },
-//      "searchable": 1,
-//      "quickSearch": 0,
-//      "changeable": 0,
-//      "ext": "./ext/biliych.json"
-//    },
+    {
+      "key": "Biliych",
+      "name": "🅱哔哔┃歌曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./lib/guodaxia.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./ext/biliych.json"
+    },
     {
       "key": "csp_KungFu404",
       "name": "阿里｜设置token",
@@ -472,16 +472,16 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
-//    {
-//      "key": "PanSearch",
-//      "name": "🙀盘Se┃搜索",
-//      "type": 3,
-//      "api": "csp_PanSearch",
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "changeable": 0,
-//      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-//    },
+    {
+      "key": "PanSearch",
+      "name": "🙀盘Se┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
     {
       "key": "push_agent",
       "name": "🛴┃手机┃推送",
