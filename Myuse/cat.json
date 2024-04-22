@@ -141,12 +141,70 @@
       "ext": "./ext/qpingguo.json"
     },
     {
+      "key": "csp_LocalFile",
+      "name": "本地视频",
       "key": "本地",
       "name": "本地存储",
       "type": 3,
+      "api": "csp_LocalFile",
       "api": "csp_Local",
       "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "type_flag": 0
       "changeable": 0
+    },
+    {
+      "key": "乐视采集",
+      "name": "乐视🏜️蓝光",
+      "type": 1,
+      "playerType": 2,
+      "searchable": 1,
+      "api": "https://leshizyapi.com/api.php/provide/vod/at/json",
+      "playUrl": "",
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "泰国剧",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "短剧",
+        "日剧",
+        "海外剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "电影解说",
+        "动作片",
+        "冒险片",
+        "动画片",
+        "喜剧片",
+        "爱情片",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "犯罪片",
+        "其他片"
+      ]
+    },
+    {
+      "key": "南瓜",
+      "name": "🎃南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "IKUN资源",
@@ -210,6 +268,15 @@
       "quickSearch": 1
     },
     {
+      "key": "一起看 ",
+      "name": "🎉一起┃App",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "鑫鑫影视",
       "name": "🐼┃鑫鑫┃影视",
       "type": 3,
@@ -219,6 +286,7 @@
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
+
     {
       "key": "光速资源",
       "name": "🎀光速┃采集",
@@ -317,6 +385,16 @@
       "api": "https://hhzyapi.com/api.php/provide/vod/"
     },
     {
+      "key": "csp_Nmys",
+      "name": "🌾农民┃直连",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./ext/nmys.json"
+    },
+    {
       "key": "drpy_js_荐片",
       "name": "影视 | 荐片[js]",
       "type": 3,
@@ -373,6 +451,27 @@
       ]
     },
     {
+      "key": "csp_短剧网",
+      "name": "短剧网",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "jar": "./lib/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "陌陌",
+      "name": "🧡短剧2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./lib/dj0.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
       "key": "横版影院",
       "name": "短剧横版影院",
       "type": 1,
@@ -384,19 +483,6 @@
         "短剧"
       ]
     },
-//    {
-//      "key": "csp_XBPQ_vstv",
-//      "name": "🎦┃短剧┃VS",
-//      "type": 3,
-//      "api": "csp_XBPQ",
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "filterable": 1,
-//      "ext": {
-//        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
-//        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
-//      }
-//    },
     {
       "key": "Bili",
       "name": "🅱哔哔┃合集",
@@ -908,4 +994,5 @@
     "cms.qdwght.com"
   ]
 }
+
 
