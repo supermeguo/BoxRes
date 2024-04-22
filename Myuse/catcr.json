@@ -1,5 +1,5 @@
 {
-  "spider": "./lib/guodaxia.jar",
+  "spider": "./lib/custom_spider.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     //    {
@@ -570,34 +570,34 @@
         "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
       }
     },
-    {
-      "key": "Bili",
-      "name": "🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./ext/bilibili.json"
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱哔哔┃歌曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./ext/biliych.json"
-    },
+//    {
+//      "key": "Bili",
+//      "name": "🅱哔哔┃合集",
+//      "type": 3,
+//      "api": "csp_Bili",
+//      "style": {
+//        "type": "rect",
+//        "ratio": 1.597
+//      },
+//      "searchable": 1,
+//      "quickSearch": 0,
+//      "changeable": 0,
+//      "ext": "./ext/bilibili.json"
+//    },
+//    {
+//      "key": "Biliych",
+//      "name": "🅱哔哔┃歌曲",
+//      "type": 3,
+//      "api": "csp_Bili",
+//      "style": {
+//        "type": "rect",
+//        "ratio": 1.597
+//      },
+//      "searchable": 1,
+//      "quickSearch": 0,
+//      "changeable": 0,
+//      "ext": "./ext/biliych.json"
+//    },
     {
       "key": "csp_XYQHikerAL_玩偶妹妹",
       "name": "📀玩偶妹妹(优)",
