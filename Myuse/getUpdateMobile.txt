@@ -1,7 +1,7 @@
 {
-    "versionName":"1.0.8",
-    "versionCode":108,
-    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobile1.0.8.apk",
-    "updateDes":"\n1.支持直播长按跳转点播 播放器\n2.修复已知bug",
+    "versionName":"1.0.9",
+    "versionCode":109,
+    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobile1.0.9.apk",
+    "updateDes":"\n1.zxing加入混淆规则，修复部分网盘接口生成二维码时闪退问题\n2.下载时文件处理不当导致的闪退问题修复",
     "isMust":false
 }
