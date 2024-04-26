@@ -142,7 +142,7 @@
     },
     {
       "key": "本地",
-      "name": "本地存储",
+      "name": "本地文件",
       "type": 3,
       "api": "csp_Local",
       "searchable": 0,
