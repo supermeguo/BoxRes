@@ -336,16 +336,6 @@
       "api": "https://hhzyapi.com/api.php/provide/vod/"
     },
     {
-      "key": "csp_Nmys",
-      "name": "🌾农民┃直连",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./ext/nmys.json"
-    },
-    {
       "key": "drpy_js_荐片",
       "name": "影视 | 荐片[js]",
       "type": 3,
