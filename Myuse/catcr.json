@@ -22,7 +22,8 @@
     }
   ],
   "sites": [
-    {"key": "csp_douban","name": "🌕┃豆瓣┃热播","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+    {"key": "csp_douban","name": "🌕┃豆瓣┃热播","type": 3,"api": "csp_DouDou","jar": "./lib/fty.jar","searchable": 0,"quickSearch": 0,"filterable": 0},
+
     {
       "key": "量子资源",
       "name": "🥑量子资源",
