@@ -23,6 +23,9 @@
   ],
   "sites": [
     {"key": "csp_douban","name": "🌕┃豆瓣┃推荐","type": 3,"api": "csp_DouDou","jar": "./lib/fty.jar","searchable": 0,"quickSearch": 0,"filterable": 0},
+    {"key": "苹果","name": "🍎┃小苹果┃IJK","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1
+    },
+    {"key": "js_大师兄","name":"🐵┃师兄┃影视","type": 3,"api": "./libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/js/大师兄影视.js"},
     {
       "key": "量子资源",
       "name": "🥑量子资源",
