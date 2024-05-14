@@ -44,17 +44,6 @@
       "changeable": 1
     },
     {
-      "key": "js_大师兄",
-      "name": "🐵┃师兄┃影视",
-      "type": 3,
-      "api": "./lib/js/drpy2.min.js",
-      "searchable": 1,
-      "jar": "./lib/fty.jar",
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/js/大师兄影视.js"
-    },
-    {
       "key": "量子资源",
       "name": "🥑量子资源",
       "type": 1,
@@ -455,36 +444,6 @@
       "categories": [
         "短剧"
       ]
-    },
-    {
-      "key": "虎牙直播js",
-      "name": "🐯┃虎牙┃直播",
-      "playerType": 1,
-      "type": 3,
-      "api": "./lib/js/drpy2.min.js",
-      "ext": "./lib/js/虎牙直播.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "csp_XYQBiu_斗鱼",
-      "name": "🐟┃斗鱼┃直播",
-      "playerType": 1,
-      "type": 3,
-      "api": "./lib/js/drpy2.min.js",
-      "ext": "./lib/js/斗鱼直播.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
     },
     {
       "key": "Bili",
