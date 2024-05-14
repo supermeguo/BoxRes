@@ -457,6 +457,36 @@
       ]
     },
     {
+      "key": "虎牙直播js",
+      "name": "🐯┃虎牙┃直播",
+      "playerType": 1,
+      "type": 3,
+      "api": "./libs/js/drpy2.min.js",
+      "ext": "./libs/js/虎牙直播.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_XYQBiu_斗鱼",
+      "name": "🐟┃斗鱼┃直播",
+      "playerType": 1,
+      "type": 3,
+      "api": "./libs/js/drpy2.min.js",
+      "ext": "./libs/js/斗鱼直播.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "Bili",
       "name": "🅱哔哔┃合集",
       "type": 3,
