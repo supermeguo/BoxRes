@@ -47,12 +47,12 @@
       "key": "js_大师兄",
       "name": "🐵┃师兄┃影视",
       "type": 3,
-      "api": "./libs/js/drpy2.min.js",
+      "api": "./lib/js/drpy2.min.js",
       "searchable": 1,
       "jar": "./lib/fty.jar",
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./libs/js/大师兄影视.js"
+      "ext": "./lib/js/大师兄影视.js"
     },
     {
       "key": "量子资源",
@@ -461,8 +461,8 @@
       "name": "🐯┃虎牙┃直播",
       "playerType": 1,
       "type": 3,
-      "api": "./libs/js/drpy2.min.js",
-      "ext": "./libs/js/虎牙直播.js",
+      "api": "./lib/js/drpy2.min.js",
+      "ext": "./lib/js/虎牙直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -476,8 +476,8 @@
       "name": "🐟┃斗鱼┃直播",
       "playerType": 1,
       "type": 3,
-      "api": "./libs/js/drpy2.min.js",
-      "ext": "./libs/js/斗鱼直播.js",
+      "api": "./lib/js/drpy2.min.js",
+      "ext": "./lib/js/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
