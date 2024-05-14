@@ -49,6 +49,7 @@
       "type": 3,
       "api": "./libs/js/drpy2.min.js",
       "searchable": 1,
+      "jar": "./lib/fty.jar",
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./libs/js/大师兄影视.js"
