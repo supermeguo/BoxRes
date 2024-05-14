@@ -22,10 +22,36 @@
     }
   ],
   "sites": [
-    {"key": "csp_douban","name": "🌕┃豆瓣┃推荐","type": 3,"api": "csp_DouDou","jar": "./lib/fty.jar","searchable": 0,"quickSearch": 0,"filterable": 0},
-    {"key": "苹果","name": "🍎┃小苹果┃IJK","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1
+    {
+      "key": "csp_douban",
+      "name": "🌕┃豆瓣┃推荐",
+      "type": 3,
+      "api": "csp_DouDou",
+      "jar": "./lib/fty.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
-    {"key": "js_大师兄","name":"🐵┃师兄┃影视","type": 3,"api": "./libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/js/大师兄影视.js"},
+    {
+      "key": "苹果",
+      "name": "🍎┃小苹果┃IJK",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "jar": "./lib/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "js_大师兄",
+      "name": "🐵┃师兄┃影视",
+      "type": 3,
+      "api": "./libs/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./libs/js/大师兄影视.js"
+    },
     {
       "key": "量子资源",
       "name": "🥑量子资源",
@@ -83,16 +109,6 @@
       "ext": "./ext/haitu.json"
     },
     {
-      "key": "Xinsj",
-      "name": "新视觉",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1,
-      "ext": "https://www.hdmyy.com/"
-    },
-    {
       "key": "haiwaikan",
       "name": "海外看",
       "type": 1,
@@ -134,16 +150,26 @@
         "经典片"
       ]
     },
-    {
-      "key": "csp_xpath_tvqing",
-      "name": "青苹果",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./ext/qpingguo.json"
-    },
+    //    {
+    //      "key": "csp_xpath_tvqing",
+    //      "name": "青苹果",
+    //      "type": 3,
+    //      "api": "csp_XPathFilter",
+    //      "searchable": 1,
+    //      "quickSearch": 1,
+    //      "filterable": 1,
+    //      "ext": "./ext/qpingguo.json"
+    //    },
+    //    {
+    //      "key": "Xinsj",
+    //      "name": "新视觉",
+    //      "type": 3,
+    //      "api": "csp_Xinsj",
+    //      "searchable": 0,
+    //      "quickSearch": 0,
+    //      "changeable": 1,
+    //      "ext": "https://www.hdmyy.com/"
+    //    },
     {
       "key": "本地",
       "name": "本地存储",
@@ -650,7 +676,8 @@
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
-    },{
+    },
+    {
       "key": "大地采集",
       "name": "🔞大地av",
       "type": 0,
@@ -659,7 +686,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },{
+    },
+    {
       "key": "pgxdy",
       "name": "🔞PGX电影",
       "type": 0,
@@ -667,7 +695,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },{
+    },
+    {
       "key": "zp128",
       "name": "🔞鲨鱼影视",
       "type": 0,
@@ -675,7 +704,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },{
+    },
+    {
       "key": "*易看资源",
       "name": "🔞易看资源",
       "type": 1,
@@ -683,7 +713,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    }, {
+    },
+    {
       "key": "*番号资源",
       "name": "🔞番号资源",
       "type": 1,
@@ -691,7 +722,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },{
+    },
+    {
       "key": "xrbsp.com",
       "name": "成人66",
       "type": 0,

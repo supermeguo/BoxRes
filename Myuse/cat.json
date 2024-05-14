@@ -23,10 +23,36 @@
     }
   ],
   "sites": [
-    {"key": "csp_douban","name": "🌕┃豆瓣┃推荐","type": 3,"api": "csp_DouDou","jar": "./lib/fty.jar","searchable": 0,"quickSearch": 0,"filterable": 0},
-    {"key": "苹果","name": "🍎┃小苹果┃IJK","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1
+    {
+      "key": "csp_douban",
+      "name": "🌕┃豆瓣┃推荐",
+      "type": 3,
+      "api": "csp_DouDou",
+      "jar": "./lib/fty.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
-    {"key": "js_大师兄","name":"🐵┃师兄┃影视","type": 3,"api": "./libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/js/大师兄影视.js"},
+    {
+      "key": "苹果",
+      "name": "🍎┃小苹果┃IJK",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "jar": "./lib/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "js_大师兄",
+      "name": "🐵┃师兄┃影视",
+      "type": 3,
+      "api": "./libs/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./libs/js/大师兄影视.js"
+    },
     {
       "key": "量子资源",
       "name": "🥑量子资源",
@@ -82,16 +108,26 @@
       "filterable": 1,
       "ext": "./ext/haitu.json"
     },
-    {
-      "key": "Xinsj",
-      "name": "新视觉",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1,
-      "ext": "https://www.hdmyy.com/"
-    },
+//    {
+//      "key": "Xinsj",
+//      "name": "新视觉",
+//      "type": 3,
+//      "api": "csp_Xinsj",
+//      "searchable": 0,
+//      "quickSearch": 0,
+//      "changeable": 1,
+//      "ext": "https://www.hdmyy.com/"
+//    },
+//    {
+//      "key": "csp_xpath_tvqing",
+//      "name": "青苹果",
+//      "type": 3,
+//      "api": "csp_XPathFilter",
+//      "searchable": 1,
+//      "quickSearch": 1,
+//      "filterable": 1,
+//      "ext": "./ext/qpingguo.json"
+//    },
     {
       "key": "haiwaikan",
       "name": "海外看",
@@ -134,16 +170,7 @@
         "经典片"
       ]
     },
-    {
-      "key": "csp_xpath_tvqing",
-      "name": "青苹果",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./ext/qpingguo.json"
-    },
+
     {
       "key": "本地",
       "name": "本地文件",
