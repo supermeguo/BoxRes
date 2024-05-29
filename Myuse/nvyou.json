@@ -1,6 +1,7 @@
 {
-    "站名": "女优",
-    "主页url": "https://nowav.tv/",
+    "author": "guozi",
+    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36",
+    "homeUrl": "https://nowav.tv/",
     "直接播放": "1",
     "图片代理":"2",
     "数组": "<div class=\"td-module-thumb\">&&</div>",
@@ -9,12 +10,12 @@
     "链接": "href=\"&&\"",
     "播放数组": "<div class=\"td-module-meta-info\">&&</div>",
     "播放列表": "<a&&/a>",
-    "播放标题": ">&&<",
-    "播放链接": "href=\"&&\"",
+    "dtUrlName": ">&&<",
+    "playUrl": "href=\"&&\"",
     "分类": "女优$tag",
-    "分类url": "https://nowav.tv/tag/{cateId}/page/{catePg}",
-    "免嗅": "0",
-    "筛选": {
+    "cateUrl": "https://nowav.tv/tag/{cateId}/page/{catePg}",
+
+    "filter": {
         "tag": [
             {
                 "key": "cateId",
