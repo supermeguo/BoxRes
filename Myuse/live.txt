@@ -13,9 +13,12 @@ CCTV-3综艺,http://61.170.80.218/liveali-tpgq.cctv.cn/live/cctv3.m3u8
 CCTV-3综艺,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41139/index.m3u8
 CCTV-4中文国际,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV-4中文国际,http://221.2.146.228:8888/newlive/live/hls/5/live.m3u8
-CCTV-5体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-CCTV-5体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-5体育,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5.m3u8
+CCTV-5体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
+CCTV-5体育,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
+CCTV-5体育,http://183.61.247.138/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
+CCTV-5体育,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
+CCTV-5体育,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
+
 CCTV-6电影,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 CCTV-6电影,http://111.207.22.10:8888/newlive/live/hls/8/live.m3u8
 CCTV-6电影,http://36.96.38.246:8888/newlive/live/hls/8/live.m3u8
