@@ -1,5 +1,5 @@
 {
-  "spider": "./lib/guodaxia.jar",
+  "spider": "./lib/fm.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     //    {
@@ -22,6 +22,26 @@
     }
   ],
   "sites": [
+    {
+      "key": "csp_douban",
+      "name": "🌕┃豆瓣┃推荐",
+      "type": 3,
+      "api": "csp_DouDou",
+      "jar": "./lib/fty.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "苹果",
+      "name": "🍎┃小苹果┃IJK",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "jar": "./lib/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "量子资源",
       "name": "🥑量子资源",
@@ -79,14 +99,13 @@
       "ext": "./ext/haitu.json"
     },
     {
-      "key": "Xinsj",
-      "name": "新视觉",
+      "key": "csp_Nbys",
+      "name": "泥视频(墙外)",
       "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1,
-      "ext": "https://www.hdmyy.com/"
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "haiwaikan",
@@ -130,16 +149,26 @@
         "经典片"
       ]
     },
-    {
-      "key": "csp_xpath_tvqing",
-      "name": "青苹果",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./ext/qpingguo.json"
-    },
+    //    {
+    //      "key": "csp_xpath_tvqing",
+    //      "name": "青苹果",
+    //      "type": 3,
+    //      "api": "csp_XPathFilter",
+    //      "searchable": 1,
+    //      "quickSearch": 1,
+    //      "filterable": 1,
+    //      "ext": "./ext/qpingguo.json"
+    //    },
+    //    {
+    //      "key": "Xinsj",
+    //      "name": "新视觉",
+    //      "type": 3,
+    //      "api": "csp_Xinsj",
+    //      "searchable": 0,
+    //      "quickSearch": 0,
+    //      "changeable": 1,
+    //      "ext": "https://www.hdmyy.com/"
+    //    },
     {
       "key": "本地",
       "name": "本地存储",
@@ -334,16 +363,6 @@
       "name": "💥┃火狐2K┃有广",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/"
-    },
-    {
-      "key": "csp_Nmys",
-      "name": "🌾农民┃直连",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./ext/nmys.json"
     },
     {
       "key": "drpy_js_荐片",
@@ -622,6 +641,65 @@
       "filterable": 1
     },
     {
+      "key": "zp066",
+      "name": "🔞花椒资源",
+      "type": 0,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "*乐播资源",
+      "name": "🔞乐播资源",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "zp100",
+      "name": "🔞乐播",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "💞探探资源💞",
+      "name": "💞探探资源💞",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "*AIvin",
+      "name": "AIvin",
+      "type": 0,
+      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "kkzy.me",
+      "name": "成人51",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "(18+)JAV名优",
+      "name": "(18+)JAV名优",
+      "type": 0,
+      "api": "http://mygzycj.com/api.php?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "afasu",
       "name": "小湿妹资源(已修复)",
       "type": 0,
@@ -656,7 +734,8 @@
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
-    },{
+    },
+    {
       "key": "大地采集",
       "name": "🔞大地av",
       "type": 0,
@@ -665,7 +744,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },{
+    },
+    {
       "key": "pgxdy",
       "name": "🔞PGX电影",
       "type": 0,
@@ -673,7 +753,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },{
+    },
+    {
       "key": "zp128",
       "name": "🔞鲨鱼影视",
       "type": 0,
@@ -681,7 +762,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },{
+    },
+    {
       "key": "*易看资源",
       "name": "🔞易看资源",
       "type": 1,
@@ -689,7 +771,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    }, {
+    },
+    {
       "key": "*番号资源",
       "name": "🔞番号资源",
       "type": 1,
@@ -697,7 +780,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },{
+    },
+    {
       "key": "xrbsp.com",
       "name": "成人66",
       "type": 0,
