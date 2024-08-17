@@ -79,6 +79,28 @@
       "ext": "./ext/saohuo.json"
     },
     {
+      "key": "视频采集3",
+      "name": "采集视频3",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "爽文短剧",
+        "灾难片",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+    {
       "key": "csp_xpath_大师兄",
       "name": "大师兄(XPF)",
       "type": 3,
@@ -98,26 +120,26 @@
       "filterable": 1,
       "ext": "./ext/haitu.json"
     },
-//    {
-//      "key": "Xinsj",
-//      "name": "新视觉",
-//      "type": 3,
-//      "api": "csp_Xinsj",
-//      "searchable": 0,
-//      "quickSearch": 0,
-//      "changeable": 1,
-//      "ext": "https://www.hdmyy.com/"
-//    },
-//    {
-//      "key": "csp_xpath_tvqing",
-//      "name": "青苹果",
-//      "type": 3,
-//      "api": "csp_XPathFilter",
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "filterable": 1,
-//      "ext": "./ext/qpingguo.json"
-//    },
+    //    {
+    //      "key": "Xinsj",
+    //      "name": "新视觉",
+    //      "type": 3,
+    //      "api": "csp_Xinsj",
+    //      "searchable": 0,
+    //      "quickSearch": 0,
+    //      "changeable": 1,
+    //      "ext": "https://www.hdmyy.com/"
+    //    },
+    //    {
+    //      "key": "csp_xpath_tvqing",
+    //      "name": "青苹果",
+    //      "type": 3,
+    //      "api": "csp_XPathFilter",
+    //      "searchable": 1,
+    //      "quickSearch": 1,
+    //      "filterable": 1,
+    //      "ext": "./ext/qpingguo.json"
+    //    },
     {
       "key": "csp_Nbys",
       "name": "泥视频(墙外)",
@@ -169,7 +191,6 @@
         "经典片"
       ]
     },
-
     {
       "key": "本地",
       "name": "本地文件",

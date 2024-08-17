@@ -78,6 +78,28 @@
       "filterable": 0,
       "ext": "./ext/saohuo.json"
     },
+
+    {
+      "key": "视频采集3",
+      "name": "采集视频3",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "爽文短剧",
+        "灾难片",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"]
+    },
     {
       "key": "csp_xpath_大师兄",
       "name": "大师兄(XPF)",
