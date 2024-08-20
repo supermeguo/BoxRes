@@ -16,9 +16,9 @@ CCTV-3综艺,http://xyt.186738613.xyz/lngd.php?id=062&Cf.m3u8
 CCTV-4中文国际,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV-4中文国际,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225493/index.m3u8
 
+CCTV-5体育,http://123.184.28.50/hlslive-tx-cdn.ysp.cctv.cn/055/2024078403.m3u8
+CCTV-5体育,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?&encrypt=
 CCTV-5体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
-CCTV-5体育,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
-CCTV-5体育,http://183.61.247.138/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
 CCTV-5体育,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
 CCTV-5体育,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
 CCTV-6电影,https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
