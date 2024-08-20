@@ -21,10 +21,10 @@ CCTV-5体育,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index
 CCTV-5体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
 CCTV-5体育,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
 CCTV-5体育,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
+CCTV-6电影,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
 CCTV-6电影,https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
-CCTV-6电影,https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
-CCTV-6电影,http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/066/2024086203.m3u8
 CCTV-6电影,http://video.qd.sdu.edu.cn/liverespath/f2f39ee2105c85c32df375728a51b5d89d3afab4/index.m3u8
+CCTV-6电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000016466/1.m3u8
 
 CCTV-7国防军事,http://111.207.22.10:8888/newlive/live/hls/9/live.m3u8
 CCTV-7国防军事,http://61.170.80.218/liveali-tpgq.cctv.cn/live/cctv7.m3u8
@@ -48,7 +48,7 @@ CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_ke
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8?auth_key=1635962688
 CCTV-13新闻,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
-CCTV-14少儿,http://61.170.80.218/liveali-tpgq.cctv.cn/live/cctv14.m3u8
+CCTV-14少儿,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
 CCTV-14少儿,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv14.m3u8
 CCTV-14少儿,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel12/index.m3u8
 CCTV-14少儿,http://mqiptv.com:8014/ch/cctv14/mqlive.m3u8
