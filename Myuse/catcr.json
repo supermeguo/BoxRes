@@ -138,7 +138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/guodaxia.jar",
+      "jar": "./lib/20240204.jar",
       "ext": "./ext/feitucr.json"
     },
     {
