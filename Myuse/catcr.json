@@ -138,7 +138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/20240204.jar",
+      "jar": "./lib/custom_spider.jar",
       "ext": "./ext/feitucr.json"
     },
     {
