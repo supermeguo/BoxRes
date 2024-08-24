@@ -98,6 +98,16 @@
       "filterable": 1,
       "ext": "./ext/haitu.json"
     },
+    {
+      "key": "csp_xpath_飞兔",
+      "name": "🐰飞兔",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./ext/feitu.json"
+    },
 //    {
 //      "key": "Xinsj",
 //      "name": "新视觉",
