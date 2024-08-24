@@ -131,7 +131,7 @@
       "ext": "./ext/feitu.json"
     },
     {
-      "key": "csp_xpath_飞兔",
+      "key": "csp_xpath_飞兔成人",
       "name": "🐰飞兔成人",
       "type": 3,
       "api": "csp_XPathFilter",
