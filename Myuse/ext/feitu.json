@@ -41,7 +41,7 @@
   "dtNameR": "",
   "dtImg": "//div[@class='hl-item-pic hl-hide-sm']/span/@data-original",
   "dtImgR": "\\S+(http\\S+)",
-  "dtCate": "",
+  "dtCate": "//li[@class='hl-col-xs-12 hl-col-sm-4']/em[contains(text(), '类型：')]/following-sibling::a/text()",
   "dtCateR": "",
   "dtYear": "//li[@class='hl-col-xs-12 hl-col-sm-4']/em[contains(text(), '年份：')]/following-sibling::text()",
   "dtYearR": "",
