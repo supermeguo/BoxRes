@@ -89,7 +89,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.feitu.tv/{playUrl}",
   "playUa": "",
-  "searchUrl": "https://www.feitu.tv/search/{wd}-/",
+  "searchUrl": "https://www.feitu.tv/search-av/-/?wd={wd}&submit=",
   "scVodNode": "//ul[contains(@class,'hl-one-list hl-theme-by')]//div[@class='hl-item-pic']",
   "scVodName": "/a/@title()",
   "scVodId": "/a/@href",
