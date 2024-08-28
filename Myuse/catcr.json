@@ -141,15 +141,6 @@
       "ext": "./ext/feitucr.json"
     },
     {
-      "key": "csp_xpath_飞兔成人",
-      "name": "🐰飞兔成人",
-      "type": 1,
-      "api": "https://www.feitu.tv/rss/sogou.xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Nbys",
       "name": "泥视频(墙外)",
       "type": 3,
