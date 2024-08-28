@@ -130,17 +130,6 @@
       "filterable": 1,
       "ext": "./ext/feitu.json"
     },
-    {
-      "key": "drpy_js_飞兔",
-      "name": "影视 | 飞兔[js]",
-      "type": 3,
-      "api": "./ext/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./ext/飞兔.js",
-      "timeout": 30
-    },
 //    {
 //      "key": "Xinsj",
 //      "name": "新视觉",
