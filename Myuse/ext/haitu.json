@@ -24,7 +24,7 @@
   "homeVodImg": "/img/@data-src",
   "homeVodImgR": "\\S+(http\\S+).jpg",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
-  "cateUrl": "https://www.haituu.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html",
+  "cateUrl": "https://www.haituu.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
   "cateVodNode": "//div[contains(@class,'module-item-pic')]",
   "cateVodName": "/a/@title",
   "cateVodId": "/a/@href",
