@@ -50,7 +50,7 @@
   "homeVodImg": "/@data-original",
   "homeVodImgR": "\\S+(http\\S+).webp",
   "homeVodMark": "//div[contains(@class,'hl-item-sub')]/span/text()",
-  "cateUrl": "https://www.feitu.tv/category/{cateId}/area/{area}/year/{year}",
+  "cateUrl": "https://www.feitu.tv/category/{cateId}/area/{area}/year/{year}/page/{catePg}",
   "cateVodNode": "//div[@class='hl-list-wrap hl-wide-wrap']//li/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
