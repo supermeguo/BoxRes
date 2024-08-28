@@ -1,7 +1,7 @@
 {
-    "versionName":"1.0.10",
-    "versionCode":1010,
-    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobile1.0.10.apk",
-    "updateDes":"\n1.修复首页刷新闪退问题",
+    "versionName":"1.0.12",
+    "versionCode":1012,
+    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobile1.0.12.apk",
+    "updateDes":"\n1.数据分页逻辑修改",
     "isMust":false
 }
