@@ -72,7 +72,7 @@
   "scVodId": "/a/@href",
   "scVodIdR": "/detail/(\\w+)/",
   "scVodImg": "/a/@data-original",
-  "scVodMark": "//p[@class='hl-item-sub hl-lc-1']/span/text()",
+  "scVodMark": "//div[@class='hl-item-pic']//div[@class='hl-pic-text']/span/text()",
   "filter": {
     "1": [
       {
