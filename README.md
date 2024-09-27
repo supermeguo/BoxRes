@@ -66,7 +66,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/m
 
 > 最低支持安卓 **4.1** 📱
 <div>
-<a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/CatV_v1.0.11.apk" target="_self">
+<a href="https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobile1.0.12.apk" target="_self">
 📃点击下载</a>
 </div>
 <br/>
