@@ -20,6 +20,22 @@
           ]
         }
       ]
+    },
+    {
+      "name": "LIVE",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "LIVE",
+      "type": 0,
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/zhumeng11/IPTV/main/IPTV.m3u",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
   ],
   "sites": [
@@ -130,26 +146,26 @@
       "filterable": 1,
       "ext": "./ext/feitu.json"
     },
-//    {
-//      "key": "Xinsj",
-//      "name": "新视觉",
-//      "type": 3,
-//      "api": "csp_Xinsj",
-//      "searchable": 0,
-//      "quickSearch": 0,
-//      "changeable": 1,
-//      "ext": "https://www.hdmyy.com/"
-//    },
-//    {
-//      "key": "csp_xpath_tvqing",
-//      "name": "青苹果",
-//      "type": 3,
-//      "api": "csp_XPathFilter",
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "filterable": 1,
-//      "ext": "./ext/qpingguo.json"
-//    },
+    //    {
+    //      "key": "Xinsj",
+    //      "name": "新视觉",
+    //      "type": 3,
+    //      "api": "csp_Xinsj",
+    //      "searchable": 0,
+    //      "quickSearch": 0,
+    //      "changeable": 1,
+    //      "ext": "https://www.hdmyy.com/"
+    //    },
+    //    {
+    //      "key": "csp_xpath_tvqing",
+    //      "name": "青苹果",
+    //      "type": 3,
+    //      "api": "csp_XPathFilter",
+    //      "searchable": 1,
+    //      "quickSearch": 1,
+    //      "filterable": 1,
+    //      "ext": "./ext/qpingguo.json"
+    //    },
     //    {
     //      "key": "Xinsj",
     //      "name": "新视觉",
