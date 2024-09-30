@@ -2,24 +2,6 @@
   "spider": "./lib/fm.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
-    //    {
-    //      "name": "TXT",
-    //      "type": 0,
-    //      "url": "./live18.txt",
-    //      "epg": "",
-    //      "logo": ""
-    //    },
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZTE4LnR4dA=="
-          ]
-        }
-      ]
-    },
     {
       "name": "LIVE",
       "type": 0,
@@ -29,9 +11,9 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "LIVE",
+      "name": "LIVEfl",
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/zhumeng11/IPTV/main/IPTV.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
