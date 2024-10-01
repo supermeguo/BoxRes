@@ -59,6 +59,43 @@
       "quickSearch": 1,
       "changeable": 1
     },
+    ,
+    {
+      "key": "厂长",
+      "name": "厂长",
+      "type": 3,
+      "api": "csp_NewCz",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://czzy.top/"
+    },
+    {
+      "key": "萌米",
+      "name": "萌米",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "玩偶",
+      "name": "玩偶哥哥",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      }
+    },
     {
       "key": "量子资源",
       "name": "🥑量子资源",
@@ -95,7 +132,6 @@
       "filterable": 0,
       "ext": "./ext/saohuo.json"
     },
-
     {
       "key": "视频采集3",
       "name": "采集视频3",
@@ -115,7 +151,8 @@
         "科幻片",
         "恐怖片",
         "剧情片",
-        "战争片"]
+        "战争片"
+      ]
     },
     {
       "key": "csp_xpath_大师兄",
