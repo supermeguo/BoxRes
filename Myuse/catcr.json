@@ -60,15 +60,6 @@
       "changeable": 1
     },
     {
-      "key": "萌米",
-      "name": "萌米",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-    {
       "key": "量子资源",
       "name": "🥑量子资源",
       "type": 1,
