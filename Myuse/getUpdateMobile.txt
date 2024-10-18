@@ -1,7 +1,7 @@
 {
-    "versionName":"1.0.13",
-    "versionCode":1013,
-    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobile1.0.13.apk",
-    "updateDes":"\n1.直播支持EPG；\n2.优化下载功能；\n3.加入弹幕功能",
+    "versionName":"1.0.14",
+    "versionCode":1014,
+    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobile1.0.14.apk",
+    "updateDes":"\n1.优化弹幕交互；\n2.加入小游戏（我的-小游戏）；",
     "isMust":false
 }
