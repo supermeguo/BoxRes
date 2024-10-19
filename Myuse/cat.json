@@ -30,9 +30,17 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "LIVE_3",
+      "name": "LIVE_home",
       "type": 0,
       "url": "https://raw.githubusercontent.com/joevess/IPTV/refs/heads/main/home.m3u8",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "LIVE_Gather",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
