@@ -1,44 +1,157 @@
 更新时间 2024-05-13
 
 💘中央,#genre#
-CCTV-1综合,http://xyt.186738613.xyz/lngd.php?id=488&Cf.m3u8
-CCTV-1综合,http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/026/2024078203.m3u8
-CCTV-1综合,http://video.qd.sdu.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/index.m3u8
+CCTV-1,http://zqjy.info/tv/NzY3MDg3
+CCTV-1,http://zqjy.info/tv/NzY3MTg2
+CCTV-1,http://zqjy.info/tv/NzY3MDEw
+CCTV-1,http://zqjy.info/tv/NzY2OTQ5
+CCTV-1,http://zqjy.info/tv/NzY2NTYw
 
-CCTV-2财经,http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/028/2024075403.m3u8
-CCTV-2财经,http://xyt.186738613.xyz/lngd.php?id=061&Cf.m3u8
+CCTV-13,http://zqjy.info/tv/NzYzNzM5
 
-CCTV-3综艺,http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/043/2024068503.m3u8
-CCTV-3综艺,http://video.qd.sdu.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/index.m3u8
-CCTV-3综艺,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225558/index.m3u8
-CCTV-3综艺,http://xyt.186738613.xyz/lngd.php?id=062&Cf.m3u8
+CCTV-1HD,http://zqjy.info/tv/NzY3MDU5
 
-CCTV-4中文国际,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-CCTV-4中文国际,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225493/index.m3u8
+CCTV-1 HD,http://zqjy.info/tv/NzY3MDIy
+CCTV-1 HD,http://zqjy.info/tv/NzY2NDAx
+CCTV-1 HD,http://zqjy.info/tv/NzY2NDUw
+CCTV-1 HD,http://zqjy.info/tv/NzY2NDEw
 
-CCTV-5体育,http://123.184.28.50/hlslive-tx-cdn.ysp.cctv.cn/055/2024078403.m3u8
-CCTV-5体育,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?&encrypt=
-CCTV-5体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
-CCTV-5体育,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
-CCTV-5体育,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
+CCTV-13 HD,http://zqjy.info/tv/NzY3MDky
 
-CCTV-6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-CCTV-6电影,https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
-CCTV-6电影,http://video.qd.sdu.edu.cn/liverespath/f2f39ee2105c85c32df375728a51b5d89d3afab4/index.m3u8
-CCTV-6电影,https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
+CCTV-16 4K,http://zqjy.info/tv/NzY2NDM3
 
-CCTV-7国防军事,http://111.207.22.10:8888/newlive/live/hls/9/live.m3u8
-CCTV-7国防军事,http://61.170.80.218/liveali-tpgq.cctv.cn/live/cctv7.m3u8
-CCTV-7国防军事,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv7.m3u8
-CCTV-8电视剧,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-CCTV-8电视剧,http://221.210.64.165:2233/hls/15/index.m3u8
-CCTV-8电视剧,http://101.19.60.244:9901/tsfile/live/0008_1.m3u8
-CCTV-9纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-CCTV-9纪录,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
-CCTV-9纪录,http://61.170.80.218/liveali-tpgq.cctv.cn/live/cctv9.m3u8
-CCTV-10科教,http://61.170.80.218/liveali-tpgq.cctv.cn/live/cctv10.m3u8
-CCTV-10科教,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv10.m3u8
-CCTV-10科教,http://101.71.176.182:8888/newlive/live/hls/12/live.m3u8
+CCTV-14 720,http://zqjy.info/tv/NzY3MDg4
+
+CCTV1 (576p),http://zqjy.info/tv/NzYxNTcz
+
+CCTV-1高清,http://zqjy.info/tv/NzU4OTIy
+CCTV-1高清,http://zqjy.info/tv/NzY2NTcy
+CCTV-1高清,http://zqjy.info/tv/NzY2NTQz
+
+CCTV-13新闻,http://zqjy.info/tv/NzY3MDg5
+
+CCTV-1 (1080p),http://zqjy.info/tv/NzUxNjM4
+
+CCTV-13 (1080p),http://zqjy.info/tv/NzUxNjM5
+
+CCTV-16 (1080p),http://zqjy.info/tv/NzUxNjQw
+CCTV-16 (1080p),http://zqjy.info/tv/NzUxNjQx
+
+CCTV-1综合 (1080p),http://zqjy.info/tv/NzQ5NTgx
+CCTV-1综合 (1080p),http://zqjy.info/tv/NTQ3Mjgw
+CCTV-1综合 (1080p),http://zqjy.info/tv/NjcyODI1
+CCTV-1综合 (1080p),http://zqjy.info/tv/NTQ3MjY4
+
+CCTV-13新闻 (1080p),http://zqjy.info/tv/NzQ5NTgy
+
+CCTV-2,http://zqjy.info/tv/NzY2ODkz
+CCTV-2,http://zqjy.info/tv/NzY2Mzc4
+CCTV-2,http://zqjy.info/tv/NzY1NjI2
+CCTV-2,http://zqjy.info/tv/NzYzNzI3
+CCTV-2,http://zqjy.info/tv/NzYzMTkz
+
+CCTV-2 HD,http://zqjy.info/tv/NzY2NTk2
+
+CCTV2 (576p),http://zqjy.info/tv/NzYxNTgy
+
+CCTV-2 (1080p),http://zqjy.info/tv/NzUxNjQy
+
+CCTV-2财经 (1080p),http://zqjy.info/tv/NzQ5NTgz
+
+CCTV-3,http://zqjy.info/tv/NzY3MjA0
+CCTV-3,http://zqjy.info/tv/NjcwNjg2
+CCTV-3,http://zqjy.info/tv/NzY2OTQ3
+CCTV-3,http://zqjy.info/tv/NzYzNzI4
+CCTV-3,http://zqjy.info/tv/NzYzNzg4
+
+CCTV-3高清,http://zqjy.info/tv/NzY2NTc1
+
+CCTV-4,http://zqjy.info/tv/NzY3MjAy
+CCTV-4,http://zqjy.info/tv/NzYzNzI5
+CCTV-4,http://zqjy.info/tv/NzY2ODcz
+CCTV-4,http://zqjy.info/tv/NzY2NjU1
+CCTV-4,http://zqjy.info/tv/NzYzNzg5
+
+CCTV-4K 4K,http://zqjy.info/tv/NzY2NDQz
+
+CCTV-4亚洲,http://zqjy.info/tv/NzY3MDg1
+
+CCTV-4高清,http://zqjy.info/tv/NzYwMjgx
+CCTV-4高清,http://zqjy.info/tv/NzY2NTQ2
+
+CCTV-4 America (1080p),http://zqjy.info/tv/NzE1MjYx
+
+CCTV-5,http://zqjy.info/tv/NzY3MjAx
+CCTV-5,http://zqjy.info/tv/NzYzNzMw
+CCTV-5,http://zqjy.info/tv/NzY2MTAw
+CCTV-5,http://zqjy.info/tv/NzY1NjE1
+CCTV-5,http://zqjy.info/tv/NzY0MjMw
+
+CCTV-5体育,http://zqjy.info/tv/NzY3MTk5
+
+CCTV-5高清,http://zqjy.info/tv/NzY3MDg2
+
+CCTV-5 (1080p),http://zqjy.info/tv/NzUxNjQz
+CCTV-5 (1080p),http://zqjy.info/tv/NzUxNjQ0
+
+CCTV-5+ (1080p),http://zqjy.info/tv/NzUxNjQ1
+
+CCTV-5体育 (1080p),http://zqjy.info/tv/NzQ5NTg1
+CCTV-5体育 (1080p),http://zqjy.info/tv/NzUxODcz
+CCTV-5体育 (1080p),http://zqjy.info/tv/NzUxODcy
+CCTV-5体育 (1080p),http://zqjy.info/tv/NzUxODc0
+
+CCTV-5+体育赛事 (1080p),http://zqjy.info/tv/NzQ5NTg0
+
+CCTV-6,http://zqjy.info/tv/NjcwNjg4
+CCTV-6,http://zqjy.info/tv/NzYzODky
+CCTV-6,http://zqjy.info/tv/NzYzODk1
+CCTV-6,http://zqjy.info/tv/NzYzODcx
+CCTV-6,http://zqjy.info/tv/NzYzODAw
+
+CCTV-6 HD,http://zqjy.info/tv/NzY2MDE4
+
+CCTV-6高清,http://zqjy.info/tv/NzY2ODgz
+CCTV-6高清,http://zqjy.info/tv/NzYwNjIx
+
+CCTV-7国防军事 (1080p),http://zqjy.info/tv/NzUxODc2
+CCTV-7国防军事 (1080p),http://zqjy.info/tv/NjgyOTM2
+
+CCTV-7,http://zqjy.info/tv/NzY1NDEy
+CCTV-7,http://zqjy.info/tv/NzYzNzMz
+CCTV-7,http://zqjy.info/tv/NzYwNjI5
+CCTV-7,http://zqjy.info/tv/NzU4NTE2
+CCTV-7,http://zqjy.info/tv/NzU4NTE3
+
+CCTV-8 (1080p),http://zqjy.info/tv/NzUxNjQ2
+
+CCTV-8电视剧 (1080p),http://zqjy.info/tv/NzQ5NTg2
+CCTV-8电视剧 (1080p),http://zqjy.info/tv/NjgyOTMy
+
+CCTV-8,http://zqjy.info/tv/NzYzNzM0
+CCTV-8,http://zqjy.info/tv/NzYzNzA5
+CCTV-8,http://zqjy.info/tv/NzYzNTcz
+CCTV-8,http://zqjy.info/tv/NzYzMTE4
+CCTV-8,http://zqjy.info/tv/NzYyOTEy
+
+CCTV-9,http://zqjy.info/tv/NzY2NTI3
+CCTV-9,http://zqjy.info/tv/NzYzNzM1
+CCTV-9,http://zqjy.info/tv/NzIwOTgz
+CCTV-9,http://zqjy.info/tv/NzU2NzE2
+CCTV-9,http://zqjy.info/tv/NzQ4MTQ1
+
+CCTV-9 (1080p),http://zqjy.info/tv/NzUxNjQ3
+
+CCTV-9纪录 (1080p),http://zqjy.info/tv/NzQ5NTg3
+CCTV-9纪录 (1080p),http://zqjy.info/tv/NjY4NjA4
+
+CCTV-10科教 (1080p),http://zqjy.info/tv/NzUxODcx
+
+CCTV-10,http://zqjy.info/tv/NzYzNzM2
+CCTV-10,http://zqjy.info/tv/NzYzNzkw
+CCTV-10,http://zqjy.info/tv/NzQxMjYw
+CCTV-10,http://zqjy.info/tv/NzU2NzE3
+CCTV-10,http://zqjy.info/tv/NzQ4MTQ2
 CCTV-11戏曲,http://221.2.146.228:8888/newlive/live/hls/12/live.m3u8
 CCTV-11戏曲,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
 CCTV-11戏曲,http://36.96.38.246:8888/newlive/live/hls/13/live.m3u8
