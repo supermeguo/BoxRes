@@ -1,0 +1,677 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-JNMLRB3QLF"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JNMLRB3QLF');
+    </script>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <meta content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;" name="viewport"/>
+    <meta content="Search for public IPTV channels. Free and easy to use, online IPTV m3u8 live stream url search utility, IPTV m3u m3u8 links updated daily" name="description"/>
+    <meta content="yes" name="apple-mobile-web-app-capable"/>
+    <meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+    <meta content="telephone=no" name="format-detection"/>
+    <title>电视直播源搜索引擎｜国内外电视频道直播源搜索，m3u8、flv、rtsp、rtmp、txt直播源链接地址每日更新</title>
+</head>
+<style>
+    body {
+            font-family: sans-serif;
+            background-color: #ccc;
+            margin: 0;
+    }
+a {
+    text-decoration:none;
+    outline:none;
+color: #000;
+}
+#copyed {margin: auto; width: 120px; height: 28px; text-align: center;display: none; position: fixed; left: 50%;top: 50%; transform: translate(-50%,-50%); background-color: #000; border: 1px solid #555; font-size: 14px;line-height: 28px;color: #fff;}
+
+.input[type="text"] {
+width: 100%;
+color: #000;
+background: #fff;
+outline: none;
+font-size: 1em;
+padding: 0.4em 1em;
+margin-bottom: 1.1em;
+border: solid 1px #fff;
+-webkit-appearance: none;
+border-radius: 3px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+font-family: 'Helvetica', sans-serif;
+}
+.tip{
+position: relative;
+}
+.tip:hover:after {
+position:absolute;
+top:22px;
+left:20px;
+content:attr(data-title);
+
+color:#000000;
+border:1px solid #2FB0F8;
+border-radius:3px ;
+background-color:#2B42F8;
+    color: #fff;
+    font-size: 12px;
+    white-space: nowrap;
+    padding: 0 5px;
+}
+.box{//外部的div盒子
+display: flex;//先设置div里的内容显示同一行
+justify-content: flex-start;//左右布局
+flex-wrap: wrap;//换行
+align-content: flex-start;//紧揍排列
+}
+.sh {
+    display: inline-block;
+    border: 1px solid #24F1FB;
+    border-radius: 5px;
+    /*float: left; */
+    margin: 3px;
+    padding: 2px 6px;
+    font-size: 13px;
+    cursor:pointer;
+    max-width: 200px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-break: break-all;
+    overflow: hidden;
+    background-color: #1a73e8;
+    color: #fff;
+    }
+    .hlewqj {
+            table-layout:fixed; width: 100%; overflow: hidden;
+            font-size: 14px;
+    }
+.qjsdv {
+    padding-left: 6px;
+}
+    .ad1 {
+            display: block;
+    }
+    .ad2 {
+            display: none;
+    }
+    .fd {
+            margin: 0 auto;
+            max-width: 533px;
+            width: 100%;
+            height: 300px;
+    }
+    .ad0 {
+            width: 100%;
+            /*height: 0;
+            padding-bottom: 56.25%;*/
+            background: url(images/1.gif) no-repeat;
+            text-align: center;
+            background-size: 100% 100%;
+
+    }
+    .ad3 {
+            display: block;
+    }
+    .ad4 {
+            display: none;
+    }
+    .imgw {
+            width: 16px;
+    }
+.nu {
+    width:10px; height: 10px;
+    border-radius: 10px;  color: #fff;text-align: center;
+font-size: 10px;
+    padding-top: 2px;
+    padding-left: 3px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    }
+.arrow{
+        width: 0px;
+        height: 0px;
+        border-top: 4px solid transparent;
+        border-bottom: 4px solid transparent;
+
+        border-left: 5px solid #fff;
+                    margin-left: 2px;
+}
+    .tdheigh {
+            line-height: 16px;
+            height: 40px;
+    }
+    .resultplus {
+            font-size: 14px;
+            line-height: 22px;
+            color: var(--black4);
+            padding: 0.6rem 1.5rem;
+            margin: 5px 0;
+            border: 0 none;
+            background-color: #fff;
+
+    }
+    .channel{
+            font-size: 18px;
+            line-height: 24px;
+            font-weight: var(--font-bold);
+    }
+    .wqjsdv {
+            margin-top: 4px;
+    }
+    tba {
+            list-style: none;
+            margin:0;padding:0;
+            font-weight: normal;
+            display: table-cell;
+            text-align: justify;
+            vertical-align: middle;
+    }
+    .qrbox {
+             position:fixed;
+            color: #000;
+            background-color: #f3f3f3;
+            top:54px;right: 10px;
+            border: 2px solid #5BDCF7;
+            border-radius: 4px;
+            width: 220px;
+            height: 340px;
+            padding: 5px;
+            text-align: center;
+            display: none;
+            font-size: 16px;
+            line-height: 22px;
+    }
+    #qrcode {
+            width: 150px;
+            margin: 0 auto;
+            border: 1px solid #333;
+            border-radius: 4px;
+            padding: 8px;
+    }
+    @media (max-width: 800px) {
+    .nu {
+            margin-top: 5px;
+    }
+    .hlewqj {
+            font-size: 12px;
+    }
+    .ad1 {
+            display: none;
+    }
+    .ad2 {
+            display: block;
+    }
+    .ad0 {
+            background-size: 100% 86.25%;
+            height: 0;
+            padding-bottom: 66.25%;
+    }
+    .ad3 {
+            /*display: none;*/
+    }
+    .ad4 {
+            display: block;
+    }
+            .imgw {
+            width: 28px;
+    }
+}
+</style>
+<body onload="cc()" style="background-color:#ddd; color:#000;">
+<a href="/">
+    <div style="background-color: #131313; color:#fff; font-size: 30px; width: 100%; height: 50px; line-height: 50px;padding-left: 0px;">   IPTV <span style="font-size: 14PX;">Link Search</span> </div>
+</a>
+<div style="margin: 0 auto; max-width: 950px; width: 100%;">
+    <div style="background-color: #fff;">
+        <br/>
+        <br/>
+        <div class="fd">
+            <div class="ad0" id="ad0">
+                <div class="ad3">
+                    <style>
+                        .vd { width: 533px; height: 300px; }
+                        @media(max-width: 500px) { .vd { width: 99%; height: 213px; } }
+                    </style>
+                    <script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7567038985601528"></script>
+                    <!-- 横向自适应 -->
+                    <ins <="" class="adsbygoogle vd" data-ad-client="ca-pub-7567038985601528" data-ad-format="auto" data-ad-slot="3736897002" data-full-width-responsive="false" ins="" style="display:block">
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    <input id="address" name="address" type="hidden" value="NzM3Mjc3"/>
+                    </ins></div>
+            </div>
+        </div>
+        <br/>
+        <p align="center">
+        <div style="font-size:28px; text-align: center">
+            <!--<form id="form1" name="form1" method="post" action="/iptvsearch/">-->
+            <form action="/?" id="form1" method="post" name="form1">
+                <input id="search" name="seerch" style="border-radius: 8px;font-size: 18px;line-height: 30px;width:90%; max-width: 400px; padding: 6px;" type="text" value="cctv1" οnfοcus="cc()">
+                <input name="Submit" style='background-image: url("search-1.png"); height: 22px; width: 22px; margin-left: -40px; line-height: 30px; border: 0px; background-color: #fff;' type="submit" value=" "/>
+                </input></form></div>
+        </p>
+        <br/><br/>
+    </div>
+    <div class="resultplus">
+        <div class="channel">
+            About 3258 results
+        </div>
+        <input id="name" name="name" type="hidden" value="NjU1Nzkz"/>
+        <input id="city" name="city" type="hidden" value="NjkzMDA0"/>
+    </div>
+
+    <div class="hlewqj">
+        <div class="resultplus">
+            <div class="channel">
+                <a href="http://zqjy.info/tv/PnpickNDVFYxSEQsaHR0cDovLzExMi4xOTMuMTIwLjczOjU1NTUvdWRwLzIzOS45My4wLjE4NDo1MTQw" target="_blank">
+                    <div class="tip" data-title="Play with PC" style="float: left;">CCTV1HD
+                    </div>
+                    <!-- <div style="float: left;">盗链可耻</div>-->
+                    <div class="tip" data-title="Play with PC" style="float: left; margin-left: 10px; margin-top: 3px;">
+                        <img src="images/pc1.jpg"/>
+                    </div>
+                </a>
+                <div class="tip" data-title="Play with cell phone" onmouseenter="makeqr('CCTV1HD','http://zqjy.info/mp.php?url=PnpickNDVFYxSEQsaHR0cDovLzExMi4xOTMuMTIwLjczOjU1NTUvdWRwLzIzOS45My4wLjE4NDo1MTQw')" onmouseleave="closeqr()" style="float: left; margin-left: 10px; margin-top: 3px;">
+                    <img src="images/phone1.jpg"/>
+                </div>
+                <div style="float: right; width: 81px; cursor: pointer;">
+                    <form action="hoteliptv.php" id="abc" method="post" name="abc">
+                        <input name="saerch" type="hidden" value="cctv1"/>
+                        <img onclick="hotel()" src="images/view-more.png" width="100%"/>
+                    </form>
+                </div>
+                <div style="clear: both;"></div>
+            </div>
+            <div class="wqjsdv">
+                <table border="0" class="hlewqj" width="100">
+                    <!-- <td class="imgw"><div class="imgw"><img style="cursor:pointer;" onclick=copyto("欢迎访问http://tonkiang.us搜索最新直播源") src="copy.png" width="100%" title="copy to clip"/></div></td><td style="padding-left: 6px;"> 欢迎访问http://tonkiang.us搜索最新直播源</td>-->
+                    <tba class="imgw"><div class="imgw"><img onclick='angaxg("http://112.193.120.73:5555/udp/239.93.0.184:5140")' src="copy.png" style="cursor:pointer;" title="copy to clip" width="100%"/></div></tba><tba class="qjsdv"> http://112.193.120.73:5555/udp/239.93.0.184:5140</tba>
+                </table>
+            </div>
+            <div style="font-size: 10px; color: #aaa;">
+                <i>10-30-2024 checked</i>
+
+                • 四川省成都市 • 組播源
+            </div>
+        </div>
+        <div class="resultplus">
+            <div class="channel">
+                <a href="http://zqjy.info/tv/NjM5NDAz" target="_blank">
+                    <div class="tip" data-title="Play with PC" style="float: left;">CCTV1
+                    </div>
+                    <!-- <div style="float: left;">盗链可耻</div>-->
+                    <div class="tip" data-title="Play with PC" style="float: left; margin-left: 10px; margin-top: 3px;">
+                        <img src="images/pc1.jpg"/>
+                    </div>
+                </a>
+                <div class="tip" data-title="Play with cell phone" onmouseenter="makeqr('CCTV1','http://zqjy.info/mp.php?url=NjM5NDAz')" onmouseleave="closeqr()" style="float: left; margin-left: 10px; margin-top: 3px;">
+                    <img src="images/phone1.jpg"/>
+                </div>
+                <div style="clear: both;"></div>
+            </div>
+            <div class="wqjsdv">
+                <table border="0" class="hlewqj" width="100">
+                    <!-- <td class="imgw"><div class="imgw"><img style="cursor:pointer;" onclick=copyto("欢迎访问http://tonkiang.us搜索最新直播源") src="copy.png" width="100%" title="copy to clip"/></div></td><td style="padding-left: 6px;"> 欢迎访问http://tonkiang.us搜索最新直播源</td>-->
+                    <tba class="imgw"><div class="imgw"><img onclick='angaxg("http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8")' src="copy.png" style="cursor:pointer;" title="copy to clip" width="100%"/></div></tba><tba class="qjsdv"> http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8</tba>
+                </table>
+            </div>
+            <div style="font-size: 10px; color: #aaa;">
+                <i>03-05-2023  checked
+
+                </i>
+            </div>
+        </div>
+        <div class="resultplus">
+            <div class="channel">
+                <a href="http://zqjy.info/tv/NjM5NDA0" target="_blank">
+                    <div class="tip" data-title="Play with PC" style="float: left;">CCTV1
+                    </div>
+                    <!-- <div style="float: left;">盗链可耻</div>-->
+                    <div class="tip" data-title="Play with PC" style="float: left; margin-left: 10px; margin-top: 3px;">
+                        <img src="images/pc1.jpg"/>
+                    </div>
+                </a>
+                <div class="tip" data-title="Play with cell phone" onmouseenter="makeqr('CCTV1','http://zqjy.info/mp.php?url=NjM5NDA0')" onmouseleave="closeqr()" style="float: left; margin-left: 10px; margin-top: 3px;">
+                    <img src="images/phone1.jpg"/>
+                </div>
+                <div style="clear: both;"></div>
+            </div>
+            <div class="wqjsdv">
+                <table border="0" class="hlewqj" width="100">
+                    <!-- <td class="imgw"><div class="imgw"><img style="cursor:pointer;" onclick=copyto("欢迎访问http://tonkiang.us搜索最新直播源") src="copy.png" width="100%" title="copy to clip"/></div></td><td style="padding-left: 6px;"> 欢迎访问http://tonkiang.us搜索最新直播源</td>-->
+                    <tba class="imgw"><div class="imgw"><img onclick='angaxg("http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225812/index.m3u8")' src="copy.png" style="cursor:pointer;" title="copy to clip" width="100%"/></div></tba><tba class="qjsdv"> http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225812/index.m3u8</tba>
+                </table>
+            </div>
+            <div style="font-size: 10px; color: #aaa;">
+                <i>03-05-2023  checked
+
+                </i>
+            </div>
+        </div>
+        <div class="resultplus">
+            <div class="channel">
+                <a href="http://zqjy.info/tv/NjM5NDA1" target="_blank">
+                    <div class="tip" data-title="Play with PC" style="float: left;">CCTV1
+                    </div>
+                    <!-- <div style="float: left;">盗链可耻</div>-->
+                    <div class="tip" data-title="Play with PC" style="float: left; margin-left: 10px; margin-top: 3px;">
+                        <img src="images/pc1.jpg"/>
+                    </div>
+                </a>
+                <div class="tip" data-title="Play with cell phone" onmouseenter="makeqr('CCTV1','http://zqjy.info/mp.php?url=NjM5NDA1')" onmouseleave="closeqr()" style="float: left; margin-left: 10px; margin-top: 3px;">
+                    <img src="images/phone1.jpg"/>
+                </div>
+                <div style="clear: both;"></div>
+            </div>
+            <div class="wqjsdv">
+                <table border="0" class="hlewqj" width="100">
+                    <!-- <td class="imgw"><div class="imgw"><img style="cursor:pointer;" onclick=copyto("欢迎访问http://tonkiang.us搜索最新直播源") src="copy.png" width="100%" title="copy to clip"/></div></td><td style="padding-left: 6px;"> 欢迎访问http://tonkiang.us搜索最新直播源</td>-->
+                    <tba class="imgw"><div class="imgw"><img onclick='angaxg("http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8")' src="copy.png" style="cursor:pointer;" title="copy to clip" width="100%"/></div></tba><tba class="qjsdv"> http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8</tba>
+                </table>
+            </div>
+            <div style="font-size: 10px; color: #aaa;">
+                <i>03-05-2023  checked
+
+                </i>
+            </div>
+        </div>
+    </div> <div style="background-color: #fff;margin-top: -6px">
+    <div style="display:flex;justify-content:center;"><a href="?page=1&amp;iqtv=cctv1"><div class="sh">|&lt;</div></a> <a href="?page=1&amp;iqtv=cctv1"><div class="sh">&lt;&lt;</div></a> <a href="?page=1&amp;iqtv=cctv1"><div class="sh" style="background-color: #fff; color: #000;">1</div></a><a href="?page=2&amp;iqtv=cctv1"><div class="sh">2</div></a><a href="?page=3&amp;iqtv=cctv1"><div class="sh">3</div></a><a href="?page=4&amp;iqtv=cctv1"><div class="sh">4</div></a><a href="?page=5&amp;iqtv=cctv1"><div class="sh">5</div></a><a href="?page=6&amp;iqtv=cctv1"><div class="sh">6</div></a><a href="?page=7&amp;iqtv=cctv1"><div class="sh">7</div></a><a href="?page=8&amp;iqtv=cctv1"><div class="sh">8</div></a><a href="?page=2&amp;iqtv=cctv1"><div class="sh">&gt;&gt;</div></a> <a href="?page=109&amp;iqtv=cctv1"><div class="sh">&gt;|</div></a><div style="clear: both;"></div> </div> <br/><br/>
+    <div class="ad2">
+        <script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7567038985601528"></script>
+        <!-- 横向自适应 -->
+        <ins class="adsbygoogle" data-ad-client="ca-pub-7567038985601528" data-ad-format="auto" data-ad-slot="3736897002" data-full-width-responsive="true" style="display:block"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    <br>
+    <br>
+    <!--
+    <div style="width: 100%;max-width: 900px; margin: 0 auto;">
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7567038985601528"
+                     crossorigin="anonymous"></script>
+
+            <ins class="adsbygoogle"
+                     style="display:block"
+                     data-ad-client="ca-pub-7567038985601528"
+                     data-ad-slot="3736897002"
+                     data-ad-format="auto"
+                     data-full-width-responsive="true"></ins>
+            <script>
+                     (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+    </div>
+    -->
+    <div style="max-width: 600px; width: 100%; margin: 0 auto; ">
+        <script async="" src="https://cse.google.com/cse.js?cx=606bd63617f51228c"></script>
+        <div class="gcse-search"></div>
+        <div style="padding: 0 15px; margin-top: -15px;font-size: 13px;">
+            <b>More Searches: </b><a href="?iqtv=CCTV11" style="color:#000;">CCTV11   </a><a href="?iqtv=CCTV15" style="color:#000;">CCTV15   </a><a href="?iqtv=CCTV13" style="color:#000;">CCTV13   </a><a href="?iqtv=CCTV16" style="color:#000;">CCTV16   </a><a href="?iqtv=CCTV17" style="color:#000;">CCTV17   </a><a href="?iqtv=CCTV14" style="color:#000;">CCTV14   </a> </div>
+    </div>
+    </br></br></div>
+    <div style="background-color: #fff">
+        <br/>
+        <p align="center" style="font-size: 18px; font-weight: bold;line-height: 18px;">
+            <a href="hoteliptv.php" style="color: #555;">酒店源、组播源特搜 <img src="images/link1.jpg" width="17"/></a>
+        </p>
+        <div style="clear: both"></div>
+        <br>
+        <br>
+        <br>
+        <div class="box" style="margin: 0 auto; max-width: 600px; width: 92%; border: 1px solid #ccc; padding: 15px 8px 8px 8px; border-radius: 10px; display: block;text-align:justify; text-align-last:justify;">
+            <div style="margin-top: -30px; margin-left: 20px; background-color: #fff; width: 120px; font-size: 22px; padding-left: 5px;"> Hot Search </div>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=cctv1" style="color:#000;">cctv1</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=NBA" style="color:#000;">NBA</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV-05" style="color:#000;">CCTV-05</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=广东珠江" style="color:#000;">广东珠江</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV-06" style="color:#000;">CCTV-06</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=cetv-4" style="color:#000;">cetv-4</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=电影" style="color:#000;">电影</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=大湾区卫视" style="color:#000;">大湾区卫视</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=经典台" style="color:#000;">经典台</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=凤凰卫视" style="color:#000;">凤凰卫视</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV13" style="color:#000;">CCTV13</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=越南" style="color:#000;">越南</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=佛山" style="color:#000;">佛山</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv= TVP" style="color:#000;"> TVP</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=緯來綜合" style="color:#000;">緯來綜合</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=浙江卫视" style="color:#000;">浙江卫视</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=苏州" style="color:#000;">苏州</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV3" style="color:#000;">CCTV3</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=大湾区" style="color:#000;">大湾区</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=凤凰资讯" style="color:#000;">凤凰资讯</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=Channel 44 (480p)" style="color:#000;">Channel 44 (480p)</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=虎牙" style="color:#000;">虎牙</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=广东" style="color:#000;">广东</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=北京" style="color:#000;">北京</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=广州" style="color:#000;">广州</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=东森洋片" style="color:#000;">东森洋片</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV-3" style="color:#000;">CCTV-3</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV5" style="color:#000;">CCTV5</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=东森" style="color:#000;">东森</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV-10" style="color:#000;">CCTV-10</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=凤凰" style="color:#000;">凤凰</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV-9" style="color:#000;">CCTV-9</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV-8" style="color:#000;">CCTV-8</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV-7" style="color:#000;">CCTV-7</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV-6" style="color:#000;">CCTV-6</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV-5" style="color:#000;">CCTV-5</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV-4" style="color:#000;">CCTV-4</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV-2" style="color:#000;">CCTV-2</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV-1" style="color:#000;">CCTV-1</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=温州" style="color:#000;">温州</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=中国天气" style="color:#000;">中国天气</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=河南" style="color:#000;">河南</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=Tvb" style="color:#000;">Tvb</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=凤凰中文" style="color:#000;">凤凰中文</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=CCTV-04" style="color:#000;">CCTV-04</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=中字" style="color:#000;">中字</a>
+</span>
+            <span class="sh" style="background-color: #fff;">
+<a href="?iqtv=中文" style="color:#000;">中文</a>
+</span>
+            <div style="clear: both"></div>
+        </div>
+        <div class="ad3" style="width: 95%; margin: 0 auto;">
+            <script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7567038985601528"></script>
+            <!-- 横向自适应 -->
+            <ins class="adsbygoogle" data-ad-client="ca-pub-7567038985601528" data-ad-format="auto" data-ad-slot="3736897002" data-full-width-responsive="true" style="display:block"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+            <input id="city" name="city" type="hidden" value="NjkzMDA0"/>
+        </div>
+        <br/><br/>
+        <div style="margin: 0 auto; max-width: 600px; width: 92%; padding: 15px 8px 8px 8px; border-radius: 10px; font-size: 10px; color: #ccc;font-style: italic; text-align: justify;">
+            * We only re-share free Iptv links (such as public IPTV channels, live stream url, m3u8, ts, flv, rtsp, rtmp, txt ect. ) which are already at public accessible websites. We DO NOT host or stream any videos on this website,  We urge all copyright owners, to recognize that links contained within this site are located somewhere else on the web. Please direct all copyright infringement issues to the companies that host these files.
+            <br/><br/><p align="center" style="font-size: 14px; color: #000; text-align: center;font-style: normal;">Copyright © 2021-2024 FoodieGuide.com</p><br/><br/>
+        </div>
+        <div class="qrbox" id="qrbox">
+            <div id="ch" style="font-weight: 700;"></div><br/>
+            <div id="qrcode"></div>
+            <ul style="text-align: left;margin-left: 15px;">
+                <li>手机扫码即播</li>
+                <li>无需安装软件</li>
+                <li>避过跨域限制</li>
+                <li>支持大部分手机</li>
+            </ul>
+        </div>
+        <div id="copyed">copyed to clip</div>
+        <script src="jquery-2.2.3.min.js"></script>
+        <script src="js/jquery.share.js?v=2"></script>
+        <script src="js/qrcode.js" type="text/javascript"></script>
+        <script>
+            function makeqr(a,b) {
+                    $("#ch").html(a);
+                    $("#qrcode").html('');
+
+                    var qrcode = new QRCode(document.getElementById("qrcode"), {
+                    width : 150,
+                    height : 150
+                    });
+                    qrcode.makeCode(b);
+
+
+                            $("#qrbox").fadeIn(1000);
+
+            }
+            function closeqr() {
+                    $("#qrbox").fadeOut(100);
+
+            }
+            function change(s){
+                    document.getElementById("search").value=s;
+                    document.getElementById('form1').submit();
+            }
+            function hotel(){
+
+                    document.getElementById('abc').submit();
+            }
+            function angaxg(content){
+                    put = document.createElement("input"); // 直接构建input
+                      put.value = content; // 设置内容
+                      document.body.appendChild(put); // 添加临时实例
+                      put.select(); // 选择实例内容
+                      document.execCommand("Copy"); // 执行复制
+                      document.body.removeChild(put); // 删除临时实例
+                            k=Math.floor(Math.random()*14)+1;
+                            document.getElementById("ad0").style.background="url(images/"+k+".gif) no-repeat";
+                    $('#copyed').fadeIn(1500);
+                    $('#copyed').fadeOut(2000);
+                    //document.getElementById("copyed").style.display="block";
+            }
+            function  cc()
+            {
+                    var range, el = document.getElementById('search');
+
+                    if (el.setSelectionRange) {
+                    el.focus();
+
+                    el.setSelectionRange(el.value.length, el.value.length)
+
+                    } else {
+                    range = el.createTextRange();
+
+                    range.collapse(false);
+
+                    range.select();
+
+                    }
+            }
+        </script>
+        <!-- Histats.com  START  (aync)-->
+        <script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4853344,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+        <noscript><a href="/" target="_blank"><img alt="" border="0" src="//sstatic1.histats.com/0.gif?4853344&amp;101"/></a></noscript>
+        <!-- Histats.com  END  -->
+        </br></br></br></div>
+</div></body>
+</html>

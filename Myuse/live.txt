@@ -1,9 +1,10 @@
 更新时间 2024-05-13
 
 💘中央,#genre#
-CCTV-1,http://222.188.112.68:10000/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225846/index.m3u8
-CCTV-1,http://ct.whosayssowhat.top:4022/udp/239.77.1.17:5146
+CCTV-1,http://112.193.120.73:5555/udp/239.93.0.184:5140
+CCTV-1,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
+CCTV-1,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225812/index.m3u8
+CCTV-1,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
 CCTV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225762/index.m3u8
 CCTV-2,http://ct.whosayssowhat.top:4022/udp/239.77.0.137:5146
 CCTV-2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225572/index.m3u8?fmt=ts2hls
