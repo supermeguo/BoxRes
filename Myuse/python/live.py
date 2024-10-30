@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import re
 
 def search_tonkiang(query):
     url = 'http://tonkiang.us/'
@@ -31,32 +32,36 @@ def search_tonkiang(query):
 
     if response.status_code == 200:
         print("请求成功，正在解析页面内容...")
-        soup = BeautifulSoup(response.text, 'html.parser')
-
-        channels = soup.find_all('div', class_='channel')
-        return channels  # 返回频道信息
+        return response.text  # 返回 HTML 内容以供后续解析
     else:
         print(f"请求失败，状态码: {response.status_code}")
-        return []
+        return ""
 
-def extract_channel_info(channels):
+def extract_channel_info(html_content):
     result = []
-    for channel in channels:
-        channel_name_div = channel.find('div', class_='tip')
-        channel_name = channel_name_div.get_text(strip=True) if channel_name_div else "未知频道"
+    soup = BeautifulSoup(html_content, 'html.parser')
+    resultplus_list = soup.find_all('div', class_='resultplus')
+    
+    if not resultplus_list:
+        print("没有找到任何频道信息。")
+    
+    for resultplus in resultplus_list:
+        # 提取频道名称
+        channel_name_tag = resultplus.find('div', class_='tip')
+        channel_name = channel_name_tag.text.strip() if channel_name_tag else "未知频道"
 
-        link = channel.find('a')['href'] if channel.find('a') else "无链接"
+        # 查找所有 img 标签并提取 onclick 属性
+        copy_buttons = resultplus.find_all('img', style=re.compile('cursor:pointer;'))
+        for img in copy_buttons:
+            onclick_value = img.get('onclick', '')
+            # 使用正则表达式提取 URL
+            match = re.search(r'iryae\("([^"]+)"\)', onclick_value)
+            if match:
+                play_url = match.group(1)
+                result.append((channel_name, play_url))
+            else:
+                print(f"未能从 onclick 中提取 URL: {onclick_value}")
 
-        # 去掉不需要的字样
-        unwanted_keywords = ["电视剧", "高清", "国防军事", "记录", "科教"]
-        for keyword in unwanted_keywords:
-            channel_name = channel_name.replace(keyword, "")  # 替换为空字符串
-
-        # 去掉多余空格
-        channel_name = channel_name.strip()
-
-        # 添加到结果中，只保留频道名称和链接
-        result.append((channel_name, link))
     return result
 
 def format_output(results):
@@ -88,12 +93,12 @@ def main():
         for i in range(1, 11):
             query = f"CCTV-{i}"
             print(f"搜索: {query}")
-            channels = search_tonkiang(query)
-            results.extend(extract_channel_info(channels))
+            html_content = search_tonkiang(query)
+            results.extend(extract_channel_info(html_content))
     elif choice == '2':
         query = input("请输入搜索关键词：")
-        channels = search_tonkiang(query)
-        results.extend(extract_channel_info(channels))
+        html_content = search_tonkiang(query)
+        results.extend(extract_channel_info(html_content))
     else:
         print("无效的选项，请输入 1 或 2。")
 
