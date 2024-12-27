@@ -105,7 +105,7 @@
       "key": "黑木耳(海外)",
       "name": "黑木耳(海外)",
       "type": 1,
-      "api": "\nhttps://json.heimuer.xyz/api.php/provide/vod/",
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
