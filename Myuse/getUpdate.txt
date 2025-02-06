@@ -1,7 +1,7 @@
 {
     "versionName":"1.0.4",
     "versionCode":104,
-    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_v1.0.4.apk",
+    "downLoadUrl":"https://ghfast.top/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_v1.0.4.apk",
     "updateDes":"\n1、搜索添加头部参数",
     "isMust":false
 }
