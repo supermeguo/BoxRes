@@ -5,15 +5,15 @@
 
 ### 自用仓库：
 
-https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/cat.json
+https://gh-proxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/cat.json
 
 ### 自用多线路仓库：
 
-https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/lemon.json
+https://gh-proxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/lemon.json
 
 ### 直播源：
 
-https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/live.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/live.txt
 
 # app介绍
 
@@ -21,7 +21,7 @@ https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myus
 
 > 最低支持安卓 **7.0**  📱
  <div>
-<a href="https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_Mobile1.0.12.apk" target="_self">
+<a href="https://gh-proxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_Mobile1.0.12.apk" target="_self">
 📃点击下载
 </a>
 </div>
@@ -48,7 +48,7 @@ https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myus
 
 > 最低支持安卓 **5.0** 📱
 <div>
-<a href="https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_v1.0.2.apk" target="_self">
+<a href="https://gh-proxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/LMBox_v1.0.2.apk" target="_self">
 📃点击下载</a>
 </div>
 
@@ -66,7 +66,7 @@ https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myus
 
 > 最低支持安卓 **4.1** 📱
 <div>
-<a href="https://ghfast.top/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobile1.0.11.apk" target="_self">
+<a href="https://gh-proxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobile1.0.11.apk" target="_self">
 📃点击下载</a>
 </div>
 <br/>
