@@ -1,7 +1,7 @@
 {
     "versionName":"1.0.15",
     "versionCode":1015,
-    "downLoadUrl":"https://mirror.ghproxy.com/https://github.com/supermeguo/BoxRes/raw/main/Myuse/LMBox_Mobile1.0.15.apk",
+    "downLoadUrl":"https://ghfast.top/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/LMBox_Mobile1.0.15.apk",
     "updateDes":"\n1.搜索头部添加参数，保证接口能正常调用；\n2.新增一个站点；",
     "isMust":false
 }
